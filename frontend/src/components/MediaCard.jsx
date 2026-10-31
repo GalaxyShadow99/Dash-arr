@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react'
+import { useNavigate } from 'react-router-dom'
 import Card from '@mui/material/Card'
 import CardContent from '@mui/material/CardContent'
 import CardMedia from '@mui/material/CardMedia'
@@ -40,6 +41,7 @@ export default function MediaCard({
   deleteFromWishlistButton = false,
   onDelete,
 }) {
+  const navigate = useNavigate()
   const [checkingTrackers, setCheckingTrackers] = useState(false)
   const [releaseInfo, setReleaseInfo] = useState(null)
   const [isAdding, setIsAdding] = useState(false)
@@ -156,20 +158,20 @@ export default function MediaCard({
   }, [mediaType, movieId, seriesId, tmdbId, tvdbId, fetchReleases])
   return (
     <Card
-      sx={{
-        display: 'flex',
-        flexDirection: 'column',
-        height: '100%',
-        borderRadius: 3,
-        border: '1px solid',
-        borderColor: 'divider',
-        boxShadow: 3,
-        transition: 'transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out',
-        '&:hover': {
-          transform: 'translateY(-4px)',
-          boxShadow: 6,
-        },
-      }}
+    onClick={(e) => {
+      // Ne pas rediriger si le clic a lieu sur un bouton, un lien ou une modal
+      if (e.target.closest('button') || e.target.closest('a') || e.target.closest('[role="dialog"]')) {
+        return;
+      }
+      // Ne naviguer que si le média est déjà suivi/présent avec un ID interne
+      const currentId = mediaType === 'series' ? seriesId : movieId;
+      if (!currentId) {
+        return;
+      }
+
+      const param = mediaType === 'series' ? `&seriesId=${seriesId}` : `&movieId=${movieId}`;
+      navigate(`/media-detail?mediaType=${mediaType}${param}`);
+    }}
     >
       {imageUrl ? (
         <CardMedia

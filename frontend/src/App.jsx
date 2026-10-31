@@ -15,6 +15,7 @@ import Login from './pages/Login'
 import LegalNotices from './pages/LegalNotices'
 import PrivacyPolicy from './pages/PrivacyPolicy'
 import TermsOfService from './pages/TermsOfService'
+import MediaDetail from './pages/MediaDetail'
 
 export default function App() {
   return (
@@ -31,13 +32,14 @@ export default function App() {
           <Navbar />
 
           {/* Contenu principal prenant tout l'espace disponible avec marge de sécurité */}
-          <Box component="main" sx={{ flexGrow: 1, pt: 12, pb: 8 }}>
+          <Box component="main" sx={{ flexGrow: 1, pb: 8 }}>
             <Routes>
               <Route path="/" element={<MonitoredMedias />} />
               <Route path="/about" element={<About />} />
               <Route path="/monitored-medias" element={<MonitoredMedias />} />
               <Route path="/create-media" element={<CreateMedia />} />
               <Route path="/login" element={<Login />} />
+              <Route path="/media-detail" element={<MediaDetail />} />
               <Route path="/privacy" element={<PrivacyPolicy />} />
               <Route path="/politique-confidentialite" element={<PrivacyPolicy />} />
               <Route path="/terms" element={<TermsOfService />} />
