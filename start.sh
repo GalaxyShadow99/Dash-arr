@@ -4,12 +4,24 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
-echo "liste des choix possibles :"
-echo "  1: lancer le backend seul"
-echo "  2: lancer le frontend seul"
-echo "  3: linter le projet"
-echo "  4: lancer les tests & builds (local CI)"
-read -p "Choisissez une option (1/2/3/4) : " choice
+choice="${1:-}"
+
+if [ -z "$choice" ]; then
+  echo "liste des choix possibles :"
+  echo "  1: lancer le backend seul"
+  echo "  2: lancer le frontend seul"
+  echo "  3: linter le projet"
+  echo "  4: lancer les tests & builds (local CI)"
+  read -p "Choisissez une option (1/2/3/4) : " choice
+fi
+
+# Alias pratiques (ex: ./start.sh test ou ./start.sh ci)
+if [ "$choice" = "ci" ] || [ "$choice" = "test" ]; then
+  choice="4"
+elif [ "$choice" = "lint" ]; then
+  choice="3"
+fi
+
 if [[ "$choice" != "1" && "$choice" != "2" && "$choice" != "3" && "$choice" != "4" ]]; then
   echo "Choix invalide."
   exit 1

@@ -4,6 +4,7 @@ import Container from '@mui/material/Container'
 import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import Chip from '@mui/material/Chip'
+import Tooltip from '@mui/material/Tooltip'
 import Button from '@mui/material/Button'
 import Card from '@mui/material/Card'
 import Divider from '@mui/material/Divider'
@@ -20,7 +21,10 @@ import MovieIcon from '@mui/icons-material/Movie'
 import LiveTvIcon from '@mui/icons-material/LiveTv'
 import CheckCircleOutlinedIcon from '@mui/icons-material/CheckCircleOutlined'
 import CancelOutlinedIcon from '@mui/icons-material/CancelOutlined'
+import CheckCircleIcon from '@mui/icons-material/CheckCircle'
+import CancelIcon from '@mui/icons-material/Cancel'
 import YouTubeIcon from '@mui/icons-material/YouTube'
+import DownloadIcon from '@mui/icons-material/Download'
 import LanguageIcon from '@mui/icons-material/Language'
 import FolderIcon from '@mui/icons-material/Folder'
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore'
@@ -28,7 +32,7 @@ import CloudDownloadIcon from '@mui/icons-material/CloudDownload'
 import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward'
 import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward'
 
-import { fetchMovieDetails, fetchSeriesDetails, fetchMovieReleases, fetchSeriesReleases } from '../services/radarr'
+import { fetchMovieDetails, fetchSeriesDetails, fetchMovieReleases, fetchSeriesReleases, checkReleases } from '../services/radarr'
 
 export default function MediaDetail() {
   const [datas, setDatas] = useState(null)
@@ -40,6 +44,10 @@ export default function MediaDetail() {
   const [loadingReleases, setLoadingReleases] = useState(false)
   const [releasesLoaded, setReleasesLoaded] = useState(false)
   const [releaseError, setReleaseError] = useState(null)
+
+  // Vérification trackers pour la pill
+  const [releaseInfo, setReleaseInfo] = useState(null)
+  const [checkingTrackers, setCheckingTrackers] = useState(false)
 
   const [searchParams] = useSearchParams()
   const mediaType = searchParams.get('mediaType')
@@ -68,6 +76,37 @@ export default function MediaDetail() {
     loadData()
   }, [mediaType, movieId, seriesId])
 
+  useEffect(() => {
+    let isCancelled = false
+    async function verifyTrackers() {
+      if (!datas) return
+      try {
+        setCheckingTrackers(true)
+        const info = await checkReleases({
+          mediaType: mediaType || 'movie',
+          movieId: movieId ? Number(movieId) : (datas.id ?? undefined),
+          seriesId: seriesId ? Number(seriesId) : (datas.id ?? undefined),
+          tmdbId: datas.tmdbId,
+          tvdbId: datas.tvdbId,
+        })
+        if (!isCancelled) {
+          setReleaseInfo(info)
+        }
+      } catch (err) {
+        console.error('Erreur vérification trackers :', err)
+      } finally {
+        if (!isCancelled) {
+          setCheckingTrackers(false)
+        }
+      }
+    }
+
+    verifyTrackers()
+    return () => {
+      isCancelled = true
+    }
+  }, [datas, mediaType, movieId, seriesId])
+
   // Chargement à la demande des releases
   const handleLoadReleases = async () => {
     try {
@@ -79,7 +118,7 @@ export default function MediaDetail() {
       } else if (mediaType === 'series' && seriesId) {
         results = await fetchSeriesReleases(seriesId)
       }
-            // Trier les releases : d'abord les conformes (approved: true), puis par seeders décroissants
+      // Trier les releases : d'abord les conformes (approved: true), puis par seeders décroissants
       const sortedResults = [...results].sort((a, b) => {
         if (Boolean(a.approved) !== Boolean(b.approved)) {
           return Number(b.approved) - Number(a.approved);
@@ -237,9 +276,39 @@ export default function MediaDetail() {
               </Typography>
               <Stack spacing={1.5} sx={{ mt: 1 }}>
                 <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-                  <Typography variant="body2" color="text.secondary">Fichier :</Typography>
+                  <Typography variant="body2" color="text.secondary">Disponibilité trackers :</Typography>
+                  {checkingTrackers && !releaseInfo && (
+                    <Chip
+                      icon={<CircularProgress size={12} color="inherit" />}
+                      label="Recherche..."
+                      size="small"
+                      variant="outlined"
+                    />
+                  )}
+                  {releaseInfo && !releaseInfo.error && (
+                    <Chip
+                      icon={releaseInfo.hasReleases ? <CheckCircleIcon /> : <CancelIcon />}
+                      label={
+                        releaseInfo.hasReleases
+                          ? (releaseInfo.activeReleasesCount ? `${releaseInfo.activeReleasesCount} release(s)` : 'Disponible')
+                          : 'Introuvable'
+                      }
+                      color={releaseInfo.hasReleases ? 'success' : 'error'}
+                      size="small"
+                    />
+                  )}
+                  {releaseInfo?.error && (
+                    <Chip label="Erreur trackers" color="warning" size="small" variant="outlined" />
+                  )}
+                  {!checkingTrackers && !releaseInfo && (
+                    <Chip label="Non vérifié" size="small" variant="outlined" />
+                  )}
+                </Box>
+
+                <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+                  <Typography variant="body2" color="text.secondary">Fichier sur disque :</Typography>
                   {hasDownloadedFile ? (
-                    <Chip size="small" icon={<CheckCircleOutlinedIcon />} label="Disponible" color="success" />
+                    <Chip size="small" icon={<CheckCircleOutlinedIcon />} label="Téléchargé" color="success" />
                   ) : (
                     <Chip size="small" icon={<CancelOutlinedIcon />} label="Manquant" color="warning" />
                   )}
@@ -301,9 +370,37 @@ export default function MediaDetail() {
                   label={mediaType === 'series' ? 'Série TV' : 'Film'}
                   color="primary"
                 />
+                {datas.status == 'released' && datas.releaseDate && (
+                  <Chip label={`Sorti le ${new Date(datas.releaseDate).toLocaleDateString()}`} variant="outlined" />
+                )}
+                {datas.status != 'released' && (
+                  <Chip label={datas.status.toUpperCase()} color="info" variant="outlined" />
+                )}
+
+                {checkingTrackers && !releaseInfo && (
+                  <Chip
+                    icon={<CircularProgress size={12} color="inherit" />}
+                    label="Trackers..."
+                    size="small"
+                    variant="outlined"
+                  />
+                )}
+                {releaseInfo && !releaseInfo.error && (
+                  <Chip
+                    icon={releaseInfo.hasReleases ? <CheckCircleIcon /> : <CancelIcon />}
+                    label={releaseInfo.hasReleases ? 'Disponible' : 'Introuvable'}
+                    color={releaseInfo.hasReleases ? 'success' : 'error'}
+                  />
+                )}
+                {releaseInfo?.error && (
+                  <Chip label="Erreur trackers" color="warning" variant="outlined" />
+                )}
+
+
+
                 {datas.certification && <Chip label={datas.certification} variant="outlined" />}
                 {runtimeFormatted && <Chip icon={<AccessTimeIcon />} label={runtimeFormatted} variant="outlined" />}
-                {datas.status && <Chip label={datas.status.toUpperCase()} color="info" variant="outlined" />}
+
                 {(imdbRating || tmdbRating) && (
                   <Chip
                     icon={<StarIcon sx={{ color: '#fbbf24 !important' }} />}
@@ -371,7 +468,7 @@ export default function MediaDetail() {
                 const tracker = rel.indexer || 'Tracker'
                 const lang = rel.languages?.map((l) => l.name).join(', ') || 'Multi'
 
-                 
+                console.log('Release:', rel)
                 return (
                   <Accordion
                     key={rel.guid || idx}
@@ -419,6 +516,23 @@ export default function MediaDetail() {
                             <Typography variant="caption" sx={{ color: 'text.secondary', display: 'flex', alignItems: 'center' }}>
                               <ArrowDownwardIcon sx={{ fontSize: 14 }} /> {rel.leechers ?? 0}
                             </Typography>
+                            {rel.downloadUrl && (
+                              <Tooltip title="Télécharger le fichier torrent / .torrent" arrow>
+                                <Button
+                                  component="a"
+                                  href={rel.downloadUrl}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  size="small"
+                                  variant="contained"
+                                  color="primary"
+                                  startIcon={<DownloadIcon sx={{ fontSize: 16 }} />}
+                                  onClick={(e) => e.stopPropagation()}
+                                >
+                                  Download
+                                </Button>
+                              </Tooltip>
+                            )}
                           </Box>
                         )}
                       </Box>
