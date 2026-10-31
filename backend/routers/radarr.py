@@ -397,3 +397,41 @@ async def check_movie_releases(movie_id: int | None = None, tmdb_id: int | None 
             message="Vérification des releases effectuée",
             data=data,
         )
+
+
+@router.get("/releases", response_model=ApiResponse)
+async def get_movie_releases(movie_id: int):
+    """Retourne la liste complète et précise des releases disponibles pour un film donné."""
+    if not movie_id:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Le paramètre movie_id est obligatoire.",
+        )
+
+    async with httpx.AsyncClient(timeout=45.0) as client:
+        try:
+            response = await client.get(
+                f"{RADARR_URL}/api/v3/release?movieId={movie_id}",
+                headers=_get_headers(),
+            )
+            response.raise_for_status()
+            releases = response.json()
+        except httpx.HTTPStatusError as exc:
+            clean_error = format_radarr_error(
+                exc.response.text, "Erreur lors de la récupération des releases Radarr"
+            )
+            raise HTTPException(
+                status_code=exc.response.status_code,
+                detail=clean_error,
+            )
+        except Exception as exc:
+            raise HTTPException(
+                status_code=status.HTTP_502_BAD_GATEWAY,
+                detail=f"Impossible de joindre Radarr: {exc!s}",
+            )
+
+    return ApiResponse(
+        success=True,
+        message=f"{len(releases)} release(s) trouvée(s)",
+        data=releases,
+    )

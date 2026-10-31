@@ -202,7 +202,7 @@ async function fetchMovies() {
 }
 
 async function fetchMovieDetails(movieId) {
-  const response = await fetch(`${API_BASE_URL}/api/radarr/movies/${movieId}`, {
+  const response = await fetch(`${API_BASE_URL}/api/radarr/movie/${movieId}`, {
     method: 'GET',
     headers: getHeaders(),
   });
@@ -322,10 +322,50 @@ async function addSeries(tvdbId, payload = {}) {
   return json.data;
 }
 
+
+async function fetchMovieReleases(movieId) {
+  if (!movieId) {
+    throw new Error("L'identifiant movieId est requis.");
+  }
+  const response = await fetch(`${API_BASE_URL}/api/radarr/releases?movie_id=${movieId}`, {
+    method: 'GET',
+    headers: getHeaders(),
+  });
+  if (!response.ok) {
+    const errorJson = await response.json().catch(() => null);
+    throw new Error(errorJson?.detail || errorJson?.message || `Erreur HTTP: ${response.status}`);
+  }
+  const json = await response.json();
+  return json.data ?? [];
+}
+
+async function fetchSeriesReleases(seriesId, seasonNumber = null) {
+  if (!seriesId) {
+    throw new Error("L'identifiant seriesId est requis.");
+  }
+  const params = new URLSearchParams({ series_id: seriesId });
+  if (seasonNumber !== null && seasonNumber !== undefined) {
+    params.append('season_number', seasonNumber);
+  }
+  const response = await fetch(`${API_BASE_URL}/api/sonarr/releases?${params.toString()}`, {
+    method: 'GET',
+    headers: getHeaders(),
+  });
+  if (!response.ok) {
+    const errorJson = await response.json().catch(() => null);
+    throw new Error(errorJson?.detail || errorJson?.message || `Erreur HTTP: ${response.status}`);
+  }
+  const json = await response.json();
+  return json.data ?? [];
+}
+
 export {
   fetchAllMedias,
   fetchMovies,
   fetchMovieDetails,
+  fetchMovieReleases,
+  fetchSeriesReleases,
+
   checkReleases,
   clearReleaseCache,
   clearReleaseCacheForMedia,
