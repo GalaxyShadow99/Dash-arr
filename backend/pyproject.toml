@@ -1,0 +1,34 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Backend minimal FastAPI pour Dasharr"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "fastapi[standard]>=0.115.0",
+  "httpx>=0.28.0",
+  "pyjwt>=2.15.1",
+  "python-dotenv>=1.0.1",
+  "uvicorn[standard]>=0.32.0",
+]
+
+[tool.uv]
+package = false
+
+[tool.fastapi]
+entrypoint = "main:app"
+
+[dependency-groups]
+dev = [
+  "pytest>=9.2.0",
+  "pytest-asyncio>=1.4.1",
+  "ruff>=0.17.0",
+]
+
+[tool.ruff.lint]
+extend-ignore = ["B008", "BLE001"]
+
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
