@@ -454,3 +454,46 @@ async def check_series_releases(
             message="Vérification des releases Sonarr effectuée",
             data=data,
         )
+
+
+@router.get("/releases", response_model=ApiResponse)
+async def get_series_releases(series_id: int, season_number: int | None = None):
+    """Retourne la liste complète et précise des releases disponibles pour une série donnée."""
+    if not series_id:
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail="Le paramètre series_id est obligatoire.",
+        )
+
+    params = {"seriesId": series_id}
+    if season_number is not None:
+        params["seasonNumber"] = season_number
+
+    async with httpx.AsyncClient(timeout=45.0) as client:
+        try:
+            response = await client.get(
+                f"{SONARR_URL}/api/v3/release",
+                headers=_get_headers(),
+                params=params,
+            )
+            response.raise_for_status()
+            releases = response.json()
+        except httpx.HTTPStatusError as exc:
+            clean_error = format_sonarr_error(
+                exc.response.text, "Erreur lors de la récupération des releases Sonarr"
+            )
+            raise HTTPException(
+                status_code=exc.response.status_code,
+                detail=clean_error,
+            )
+        except Exception as exc:
+            raise HTTPException(
+                status_code=status.HTTP_502_BAD_GATEWAY,
+                detail=f"Impossible de joindre Sonarr: {exc!s}",
+            )
+
+    return ApiResponse(
+        success=True,
+        message=f"{len(releases)} release(s) trouvée(s)",
+        data=releases,
+    )

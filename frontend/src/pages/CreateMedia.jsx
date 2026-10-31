@@ -124,10 +124,10 @@ export default function CreateMedia() {
 
             return (
               <MediaCard
-                key={`${type}-${item.tvdbId || item.tmdbId || item.id || 'item'}-${index}`}
+                key={`${type}-${item.tvdbId || item.tmdbId || index}`}
                 mediaType={type}
-                movieId={item.id}
-                seriesId={item.id}
+                movieId={type === 'movie' && item.id > 0 ? item.id : null}
+                seriesId={type === 'series' && item.id > 0 ? item.id : null}
                 tmdbId={item.tmdbId}
                 tvdbId={item.tvdbId}
                 title={item.title}

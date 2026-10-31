@@ -69,7 +69,15 @@ export default function MonitoredMedias() {
           </span>
         ) : (
           <span>
-            Erreur de chargement : {error}
+            {error === 'Token JWT expiré' ? (
+              <span>
+                Votre token JWT a expiré. Veuillez vous reconnecter pour continuer.
+              </span>
+            ) : (
+              <span>
+                Erreur de chargement : {error}
+              </span>
+            )}
           </span>
         )}
       </Alert>

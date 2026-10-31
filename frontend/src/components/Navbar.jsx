@@ -14,6 +14,7 @@ import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 import { Link as RouterLink } from 'react-router-dom';
 import { isAuthenticated } from '../services/auth';
+import ReactLogo from '../assets/favicon.svg';
 
 const pages = [
   { label: 'Ma Liste', path: '/monitored-medias' },
@@ -41,7 +42,7 @@ function MyNavbar() {
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           {/* Logo Desktop */}
-          <AdbIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
+          <img src={ReactLogo} alt="React Logo" style={{ marginRight: '16px' }} height="50px" width="50px" />
           <Typography
             variant="h6"
             noWrap
@@ -139,7 +140,7 @@ function MyNavbar() {
           {isLoggedIn && (
             <Box sx={{ flexGrow: 0 }}>
               <Tooltip>
-                <IconButton  sx={{ p: 0 }}>
+                <IconButton sx={{ p: 0 }}>
                   <Avatar alt="Remy Sharp" src="/static/images/avatar/2.jpg" />
                 </IconButton>
               </Tooltip>
@@ -151,11 +152,11 @@ function MyNavbar() {
                 key="/login"
                 component={RouterLink}
                 to="/login"
-              onClick={handleCloseNavMenu}
-              sx={{ my: 2, color: 'white', display: 'block' }}
-            >
-              Se Connnecter
-            </Button>
+                onClick={handleCloseNavMenu}
+                sx={{ my: 2, color: 'white', display: 'block' }}
+              >
+                Se Connnecter
+              </Button>
 
             </Box>
           )}
