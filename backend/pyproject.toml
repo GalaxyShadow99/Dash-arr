@@ -22,6 +22,7 @@ entrypoint = "main:app"
 dev = [
   "pytest>=9.2.0",
   "pytest-asyncio>=1.4.1",
+  "respx>=0.23.1",
   "ruff>=0.17.0",
 ]
 
@@ -33,3 +34,4 @@ extend-ignore = ["B008", "BLE001"]
 pythonpath = ["."]
 testpaths = ["tests"]
 asyncio_default_fixture_loop_scope = "function"
+

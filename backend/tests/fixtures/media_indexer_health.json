@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "C411",
+    "protocol": "torrent",
+    "implementation": "Torznab",
+    "enableRss": true,
+    "enableAutomaticSearch": true,
+    "isValid": true,
+    "validationFailures": []
+  },
+  {
+    "id": 2,
+    "name": "Tr4cker",
+    "protocol": "torrent",
+    "implementation": "Torznab",
+    "enableRss": true,
+    "enableAutomaticSearch": true,
+    "isValid": true,
+    "validationFailures": []
+  }
+]
