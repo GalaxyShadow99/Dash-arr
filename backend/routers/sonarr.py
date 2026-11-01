@@ -468,6 +468,7 @@ async def get_series_releases(series_id: int, season_number: int | None = None):
     params = {"seriesId": series_id}
     if season_number is not None:
         params["seasonNumber"] = season_number
+    releases = []
 
     async with httpx.AsyncClient(timeout=45.0) as client:
         try:
