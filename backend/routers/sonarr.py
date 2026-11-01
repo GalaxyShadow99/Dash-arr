@@ -102,7 +102,7 @@ async def get_single_series(series_id: int):
 
 # --- SEARCH / LOOKUP (Recherche via Sonarr /api/v3/series/lookup) ---
 @router.get("/lookup", response_model=ApiResponse)
-async def lookup_series(term: str, limit: int = 10):
+async def lookup_series(term: str, limit: int = 25):
     """Recherche une série via Sonarr v3 (TVDB/TheTVDB)."""
     async with httpx.AsyncClient(timeout=15.0) as client:
         try:
