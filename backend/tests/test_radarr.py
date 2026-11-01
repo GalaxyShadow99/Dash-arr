@@ -56,10 +56,10 @@ def test_get_movie_details(respx_mock, auth_headers):
 
 
 # ENDPOINT: GET /api/radarr/lookup
-def test_lookup_movies(respx_mock, auth_headers):
+def test_lookup_movies(monkeypatch, auth_headers):
     """GET /api/radarr/lookup - Recherche un film par titre ou terme."""
     lookup_data = load_fixture("radarr_lookup.json")
-    respx_mock.get(f"{RADARR_URL}/api/v3/movie/lookup").respond(200, json=lookup_data)
+    monkeypatch.setattr("routers.radarr.search_tmdb", lambda query: lookup_data)
 
     response = client.get("/api/radarr/lookup?query=Fight%20Club", headers=auth_headers)
     assert response.status_code == 200
@@ -107,15 +107,13 @@ def test_check_movie_releases(respx_mock, auth_headers):
 
 
 # ENDPOINT: POST /api/radarr/movie/{tmdb_id}
-def test_add_movie_by_tmdb(respx_mock, auth_headers):
+def test_add_movie_by_tmdb(respx_mock, monkeypatch, auth_headers):
     """POST /api/radarr/movie/{tmdb_id} - Ajoute un film dans Radarr via TMDB."""
     movie_data = load_fixture("radarr_movie_detail.json")
     tmdb_id = movie_data.get("tmdbId", 550)
 
-    # Simule lookup TMDB puis création dans Radarr
-    respx_mock.get(f"{RADARR_URL}/api/v3/movie/lookup/tmdb").respond(
-        200, json=movie_data
-    )
+    # Mock de la fonction de lookup TMDB sans passer par le réseau
+    monkeypatch.setattr("routers.radarr.get_tmdb_movie_details", lambda _id: movie_data)
     respx_mock.post(f"{RADARR_URL}/api/v3/movie").respond(201, json=movie_data)
 
     response = client.post(f"/api/radarr/movie/{tmdb_id}", headers=auth_headers)
