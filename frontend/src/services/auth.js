@@ -1,7 +1,4 @@
-const API_BASE_URL = import.meta.env.API_URL;
-if (!API_BASE_URL) {
-  throw new Error("La variable d'environnement API_URL n'est pas définie.");
-}
+import { API_BASE_URL } from '../config';
 
 export async function loginUser(email, password) {
   const response = await fetch(`${API_BASE_URL}/api/auth/login`, {
