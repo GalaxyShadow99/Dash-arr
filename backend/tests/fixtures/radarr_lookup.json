@@ -1,0 +1,803 @@
+[
+  {
+    "title": "Fight Club",
+    "originalTitle": "Fight Club",
+    "originalLanguage": {
+      "id": 1,
+      "name": "English"
+    },
+    "alternateTitles": [
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Mo'adon Krav",
+        "id": 408
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Borilački klub",
+        "id": 409
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Boytsovskiy klub",
+        "id": 410
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Boen klub",
+        "id": 411
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Biytsivsʹkyy klub",
+        "id": 412
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Байцоўскі клюб",
+        "id": 413
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Döyüş Klubu",
+        "id": 414
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "მალჷმორეფიშ კლუბი",
+        "id": 415
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Մարտական ակումբ",
+        "id": 416
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "النادي د لمدابزة",
+        "id": 417
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "نادى القتال",
+        "id": 418
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Мушташ клубу",
+        "id": 419
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "فایت کلاب",
+        "id": 420
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "फाइट क्लब",
+        "id": 421
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "ਫ਼ਾਈਟ ਕਲੱਬ",
+        "id": 422
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "搏击会",
+        "id": 423
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "鬥陣俱樂部",
+        "id": 424
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Մարտ Ակումբ",
+        "id": 425
+      }
+    ],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "fight club",
+    "status": "released",
+    "overview": "Le narrateur, sans identité précise, vit seul, travaille seul, dort seul, mange seul ses plateaux‐repas pour une personne comme beaucoup d’autres personnes seules qui connaissent la misère humaine, morale et sexuelle. C’est pourquoi il va devenir membre du Fight club, un lieu clandestin où il va pouvoir retrouver sa virilité, l’échange et la communication. Ce club est dirigé par Tyler Durden, une sorte d’anarchiste entre gourou et philosophe qui prêche l’amour de son prochain.",
+    "inCinemas": "1999-10-15T00:00:00Z",
+    "physicalRelease": "2000-04-25T00:00:00Z",
+    "digitalRelease": "2001-05-26T00:00:00Z",
+    "releaseDate": "1999-10-15T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/23/poster.jpg?h=01cd2e7c188920d1d8f1",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/23/fanart.jpg?h=97b7eeffe15bb7be11be",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/c6OLXfKAk5BKeR6broC8pYiCquX.jpg"
+      }
+    ],
+    "website": "https://www.20thcenturystudios.com/movies/fight-club",
+    "remotePoster": "https://image.tmdb.org/t/p/original/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+    "year": 1999,
+    "youTubeTrailerId": "dfeUzm6KF4g",
+    "studio": "Fox 2000 Pictures",
+    "path": "/movies/Fight Club (1999)",
+    "qualityProfileId": 4,
+    "movieFileId": 0,
+    "monitored": true,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "/movies/Fight Club (1999)",
+    "runtime": 139,
+    "cleanTitle": "fightclub",
+    "imdbId": "tt0137523",
+    "tmdbId": 550,
+    "titleSlug": "550",
+    "folder": "Fight Club (1999)",
+    "certification": "R",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "keywords": [
+      "alter ego",
+      "based on novel or book",
+      "breaking the fourth wall",
+      "dissociative identity disorder",
+      "dual identity",
+      "dystopia",
+      "fight",
+      "insomnia",
+      "nihilism",
+      "quitting a job",
+      "rage and hate",
+      "self destructiveness",
+      "split personality",
+      "support group"
+    ],
+    "tags": [],
+    "added": "2026-10-20T17:07:21Z",
+    "ratings": {
+      "imdb": {
+        "votes": 2677211,
+        "value": 8.8,
+        "type": "user"
+      },
+      "tmdb": {
+        "votes": 33173,
+        "value": 8.438,
+        "type": "user"
+      },
+      "metacritic": {
+        "votes": 0,
+        "value": 67,
+        "type": "user"
+      },
+      "rottenTomatoes": {
+        "votes": 0,
+        "value": 81,
+        "type": "user"
+      },
+      "trakt": {
+        "votes": 45684,
+        "value": 8.68772,
+        "type": "user"
+      }
+    },
+    "popularity": 41.8475,
+    "lastSearchTime": "2026-11-01T12:48:05Z",
+    "id": 23
+  },
+  {
+    "title": "Fight Club",
+    "originalTitle": "Fight Club",
+    "originalLanguage": {
+      "id": 43,
+      "name": "Tamil"
+    },
+    "alternateTitles": [],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "fight club",
+    "status": "released",
+    "overview": "A young boy Selva chasing his football sports dreams suffers a major setback, grows into an angry young man who is drawn into conflicts by evil forces involving him and his family, which he must navigate and reform.",
+    "inCinemas": "2023-12-15T00:00:00Z",
+    "digitalRelease": "2024-03-27T00:00:00Z",
+    "releaseDate": "2023-12-15T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCoverProxy/0b26925ad6a88ac58f546896e8e647f45cb6dda5b38719c753841f0abae9600a/1h6t9nCYVWOLRskB35K51payMok.jpg",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/1h6t9nCYVWOLRskB35K51payMok.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCoverProxy/d605bd71f07589b7cddc100ac23fba08aeb5fc18920b91c5f7c5286ebeb2fa83/nlDmuxSjJS1Fi2FgVToPm9ytm5S.jpg",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/nlDmuxSjJS1Fi2FgVToPm9ytm5S.jpg"
+      }
+    ],
+    "website": "",
+    "remotePoster": "https://image.tmdb.org/t/p/original/1h6t9nCYVWOLRskB35K51payMok.jpg",
+    "year": 2023,
+    "youTubeTrailerId": "Qq5FTFIkE3k",
+    "studio": "Reel Good Films",
+    "qualityProfileId": 0,
+    "movieFileId": 0,
+    "monitored": false,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "",
+    "runtime": 135,
+    "cleanTitle": "fightclub",
+    "imdbId": "tt15561202",
+    "tmdbId": 1213076,
+    "titleSlug": "1213076",
+    "folder": "Fight Club (2023)",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "keywords": [],
+    "tags": [],
+    "added": "0001-01-01T00:00:00Z",
+    "ratings": {
+      "imdb": {
+        "votes": 1978,
+        "value": 5.5,
+        "type": "user"
+      },
+      "tmdb": {
+        "votes": 17,
+        "value": 6.4,
+        "type": "user"
+      },
+      "trakt": {
+        "votes": 31,
+        "value": 5.45161,
+        "type": "user"
+      }
+    },
+    "popularity": 1.3661
+  },
+  {
+    "title": "RISE FIGHT CLUB",
+    "originalTitle": "RISE FIGHT CLUB",
+    "originalLanguage": {
+      "id": 8,
+      "name": "Japanese"
+    },
+    "alternateTitles": [],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "rise fight club",
+    "status": "released",
+    "overview": "RISE FIGHT CLUB was a kickboxing event produced by YA-MAN, held behind closed doors in Tokyo, Japan on November 19, 2023 and streamed on ABEMA. In the main event, YA-MAN faced Mikuru Asakura in a -70kg bout, with Hiroto Yamaguchi facing Taisei Nishitani and Sota \"Cerberus\" Kimura facing Rikuto Shirakawa on the undercard.",
+    "digitalRelease": "2023-11-19T00:00:00Z",
+    "releaseDate": "2023-11-19T00:00:00Z",
+    "images": [
+      {
+        "coverType": "fanart",
+        "url": "/MediaCoverProxy/8b2a42eb20eef5ab40c8954d66dcac6ac15b48c5f41bc7d3765655f1dccd3ed1/2Orc4w8jM6IKnKmiFA5wirfsib5.jpg",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/2Orc4w8jM6IKnKmiFA5wirfsib5.jpg"
+      }
+    ],
+    "website": "https://rise-rc.com/result/fight-club/",
+    "year": 2023,
+    "youTubeTrailerId": "",
+    "studio": "ABEMA",
+    "qualityProfileId": 0,
+    "movieFileId": 0,
+    "monitored": false,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "",
+    "runtime": 0,
+    "cleanTitle": "risefightclub",
+    "tmdbId": 1783244,
+    "titleSlug": "1783244",
+    "folder": "RISE FIGHT CLUB (2023)",
+    "genres": [
+      "Action"
+    ],
+    "keywords": [
+      "combat sports",
+      "jkick",
+      "kickboxing",
+      "rise"
+    ],
+    "tags": [],
+    "added": "0001-01-01T00:00:00Z",
+    "ratings": {
+      "tmdb": {
+        "votes": 0,
+        "value": 0,
+        "type": "user"
+      }
+    },
+    "popularity": 2.0312
+  },
+  {
+    "title": "Zombie Fight Club",
+    "originalTitle": "屍城",
+    "originalLanguage": {
+      "id": 10,
+      "name": "Chinese"
+    },
+    "alternateTitles": [
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 0,
+        "title": "Shi cheng"
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 0,
+        "title": "Corpse City"
+      }
+    ],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "zombie fight club",
+    "status": "released",
+    "overview": "Après une peste zombie qui a décimé la planète, certaines survivants organisent des combats d'humains contre mort-vivants...",
+    "inCinemas": "2014-10-23T00:00:00Z",
+    "physicalRelease": "2015-06-24T00:00:00Z",
+    "digitalRelease": "2016-09-02T00:00:00Z",
+    "releaseDate": "2014-10-23T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCoverProxy/a0bbbec63363327daa86e45d8250aed76ccb87ab0c27b05e239ea7f8ce1d0b23/oAk3sPcDYiDfsiQv8bPzntv4s8f.jpg",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/oAk3sPcDYiDfsiQv8bPzntv4s8f.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCoverProxy/8bbdf28628b16c1e074e526c8ce51387d5272f22ea63f384e0b53506c91411c5/1VqE5z4VIOcNcajJuHLk4fDkY9G.jpg",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/1VqE5z4VIOcNcajJuHLk4fDkY9G.jpg"
+      }
+    ],
+    "website": "",
+    "remotePoster": "https://image.tmdb.org/t/p/original/oAk3sPcDYiDfsiQv8bPzntv4s8f.jpg",
+    "year": 2014,
+    "youTubeTrailerId": "TtY3jLisfgI",
+    "studio": "",
+    "qualityProfileId": 0,
+    "movieFileId": 0,
+    "monitored": false,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "",
+    "runtime": 95,
+    "cleanTitle": "zombiefightclub",
+    "imdbId": "tt3560742",
+    "tmdbId": 289732,
+    "titleSlug": "289732",
+    "folder": "Zombie Fight Club (2014)",
+    "genres": [
+      "Action",
+      "Horror"
+    ],
+    "keywords": [
+      "curious",
+      "zombie"
+    ],
+    "tags": [],
+    "added": "0001-01-01T00:00:00Z",
+    "ratings": {
+      "imdb": {
+        "votes": 1019,
+        "value": 3.9,
+        "type": "user"
+      },
+      "tmdb": {
+        "votes": 124,
+        "value": 5.6,
+        "type": "user"
+      },
+      "trakt": {
+        "votes": 71,
+        "value": 4.57746,
+        "type": "user"
+      }
+    },
+    "popularity": 2.814
+  },
+  {
+    "title": "Florence Fight Club",
+    "originalTitle": "Вставай и бейся",
+    "originalLanguage": {
+      "id": 11,
+      "name": "Russian"
+    },
+    "alternateTitles": [
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 0,
+        "title": "I calcianti"
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 0,
+        "title": "Vstavay i beysya"
+      }
+    ],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "florence fight club",
+    "status": "released",
+    "overview": "Intertwined stories from the gladiator/athletes participating to the Calcio Storico Fiorentino yearly championship.",
+    "inCinemas": "2015-06-21T00:00:00Z",
+    "digitalRelease": "2021-06-03T00:00:00Z",
+    "releaseDate": "2015-06-21T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCoverProxy/6cfcb03f7218099c0a9f6daa1a060e43d26cf595a316c2ac5dcf6267fd8fc302/rPCOC0myV3Vr7nYGMAOAOpUXgH3.jpg",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/rPCOC0myV3Vr7nYGMAOAOpUXgH3.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCoverProxy/3152a427d5c7b52925c4e476646ab6d7f5c7703869a57f55bd4b1f21c09ff58f/jbENtcxPaIohtUyeSzTiVnCLHpn.jpg",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/jbENtcxPaIohtUyeSzTiVnCLHpn.jpg"
+      }
+    ],
+    "website": "",
+    "remotePoster": "https://image.tmdb.org/t/p/original/rPCOC0myV3Vr7nYGMAOAOpUXgH3.jpg",
+    "year": 2015,
+    "youTubeTrailerId": "",
+    "studio": "Settima Luna",
+    "qualityProfileId": 0,
+    "movieFileId": 0,
+    "monitored": false,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "",
+    "runtime": 93,
+    "cleanTitle": "florencefightclub",
+    "imdbId": "tt3072180",
+    "tmdbId": 323667,
+    "titleSlug": "323667",
+    "folder": "Florence Fight Club (2015)",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "keywords": [],
+    "tags": [],
+    "added": "0001-01-01T00:00:00Z",
+    "ratings": {
+      "imdb": {
+        "votes": 45,
+        "value": 5.4,
+        "type": "user"
+      },
+      "tmdb": {
+        "votes": 31,
+        "value": 7.4,
+        "type": "user"
+      },
+      "trakt": {
+        "votes": 1,
+        "value": 7,
+        "type": "user"
+      }
+    },
+    "popularity": 1.269
+  },
+  {
+    "title": "MDK Fight Club 2026",
+    "originalTitle": "MDK Fight Club 2026",
+    "originalLanguage": {
+      "id": 1,
+      "name": "English"
+    },
+    "alternateTitles": [],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "mdk fight club 2026",
+    "status": "released",
+    "overview": "MDK Fight Club 2026 was a professional wrestling show presented by Game Changer Wrestling on 4.17.26",
+    "digitalRelease": "2026-04-17T00:00:00Z",
+    "releaseDate": "2026-04-17T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCoverProxy/3448538a0f99370640de9db466ca130346dbeda1be08a7ebbb4a1af1dcdd6b73/57GFzMWz4MxDl6OlNa7A9Xa8oeZ.jpg",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/57GFzMWz4MxDl6OlNa7A9Xa8oeZ.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCoverProxy/32ec55c630bad73b91721ccfb6d8a92aef1b293231569aa898f2a1bd3eecf52b/bWCmBgmrlQdjwbbIAX54hLmBiJ5.jpg",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/bWCmBgmrlQdjwbbIAX54hLmBiJ5.jpg"
+      }
+    ],
+    "website": "https://www.trillertv.com/watch/mdk-fight-club-2026/2pj5h/",
+    "remotePoster": "https://image.tmdb.org/t/p/original/57GFzMWz4MxDl6OlNa7A9Xa8oeZ.jpg",
+    "year": 2026,
+    "youTubeTrailerId": "",
+    "studio": "Game Changer Wrestling",
+    "qualityProfileId": 0,
+    "movieFileId": 0,
+    "monitored": false,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "",
+    "runtime": 110,
+    "cleanTitle": "mdkfightclub2026",
+    "tmdbId": 1656143,
+    "titleSlug": "1656143",
+    "folder": "MDK Fight Club 2026 (2026)",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "keywords": [],
+    "tags": [],
+    "added": "0001-01-01T00:00:00Z",
+    "ratings": {
+      "tmdb": {
+        "votes": 1,
+        "value": 7,
+        "type": "user"
+      }
+    },
+    "popularity": 1.5678
+  },
+  {
+    "title": "Fight Club: Members Only",
+    "originalTitle": "Fight Club: Members Only",
+    "originalLanguage": {
+      "id": 26,
+      "name": "Hindi"
+    },
+    "alternateTitles": [],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "fight club members only",
+    "status": "released",
+    "overview": "Four friends head off to Bombay and get involved in the mother and father of all gang wars.",
+    "inCinemas": "2006-02-17T00:00:00Z",
+    "releaseDate": "2006-02-17T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCoverProxy/88062e88276bbf1498ccfa01f1927887aa4ab5ea04bac2e9301094fc91a6aecd/aXFmWfWYCCxQTkCn7K86RvDiMHZ.jpg",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/aXFmWfWYCCxQTkCn7K86RvDiMHZ.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCoverProxy/eafe5af5a0e59af19cd047821f0b7962f786a21c03a3071e9b429fdf6fe9505b/cHnWx0QoVvtSNkDUpYcM9CXJhV8.jpg",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/cHnWx0QoVvtSNkDUpYcM9CXJhV8.jpg"
+      }
+    ],
+    "website": "",
+    "remotePoster": "https://image.tmdb.org/t/p/original/aXFmWfWYCCxQTkCn7K86RvDiMHZ.jpg",
+    "year": 2006,
+    "youTubeTrailerId": "",
+    "studio": "Sohail Khan Production",
+    "qualityProfileId": 0,
+    "movieFileId": 0,
+    "monitored": false,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "",
+    "runtime": 140,
+    "cleanTitle": "fightclubmembersonly",
+    "imdbId": "tt0456413",
+    "tmdbId": 347807,
+    "titleSlug": "347807",
+    "folder": "Fight Club - Members Only (2006)",
+    "genres": [
+      "Action"
+    ],
+    "keywords": [],
+    "tags": [],
+    "added": "0001-01-01T00:00:00Z",
+    "ratings": {
+      "imdb": {
+        "votes": 1757,
+        "value": 3.6,
+        "type": "user"
+      },
+      "tmdb": {
+        "votes": 29,
+        "value": 6.103,
+        "type": "user"
+      },
+      "trakt": {
+        "votes": 15,
+        "value": 5.73333,
+        "type": "user"
+      }
+    },
+    "popularity": 1.2822
+  },
+  {
+    "title": "Insane Fight Club",
+    "originalTitle": "Insane Fight Club",
+    "originalLanguage": {
+      "id": 1,
+      "name": "English"
+    },
+    "alternateTitles": [],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "insane fight club",
+    "status": "released",
+    "overview": "A group of friends have created a brand new subculture that is taking over the streets of Glasgow. They've established their very own fight club, but this is no ordinary wrestling event - this is brutal, riotous chaos. Fights don't always stay inside the ring, people are bounced off the side of buses and thrown off balconies in pubs. They now plan the biggest show of their lives. The stakes are high, will it bring them the fame and recognition they need to survive?",
+    "inCinemas": "2014-03-11T00:00:00Z",
+    "releaseDate": "2014-03-11T00:00:00Z",
+    "images": [],
+    "website": "",
+    "year": 2014,
+    "youTubeTrailerId": "",
+    "studio": "BBC Scotland",
+    "qualityProfileId": 0,
+    "movieFileId": 0,
+    "monitored": false,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "",
+    "runtime": 60,
+    "cleanTitle": "insanefightclub",
+    "imdbId": "tt3605366",
+    "tmdbId": 259016,
+    "titleSlug": "259016",
+    "folder": "Insane Fight Club (2014)",
+    "genres": [
+      "Documentary"
+    ],
+    "keywords": [
+      "wrestling"
+    ],
+    "tags": [],
+    "added": "0001-01-01T00:00:00Z",
+    "ratings": {
+      "imdb": {
+        "votes": 37,
+        "value": 7.2,
+        "type": "user"
+      },
+      "tmdb": {
+        "votes": 16,
+        "value": 6.8,
+        "type": "user"
+      },
+      "trakt": {
+        "votes": 5,
+        "value": 6.8,
+        "type": "user"
+      }
+    },
+    "popularity": 1.0074
+  },
+  {
+    "title": "Jurassic Fight Club",
+    "originalTitle": "Jurassic Fight Club",
+    "originalLanguage": {
+      "id": 1,
+      "name": "English"
+    },
+    "alternateTitles": [],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "jurassic fight club",
+    "status": "released",
+    "overview": "Jurassic Fight Club, a paleontology-based miniseries that ran for 12 episodes, depicts how prehistoric beasts hunted their prey, dissecting these battles and uncovering a predatory world far more calculated and complex than originally thought. It was hosted by George Blasing, a self-taught paleontologist.",
+    "inCinemas": "2008-10-22T00:00:00Z",
+    "releaseDate": "2008-10-22T00:00:00Z",
+    "images": [],
+    "website": "",
+    "year": 2008,
+    "youTubeTrailerId": "",
+    "studio": "",
+    "qualityProfileId": 0,
+    "movieFileId": 0,
+    "monitored": false,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "",
+    "runtime": 0,
+    "cleanTitle": "jurassicfightclub",
+    "imdbId": "tt1258908",
+    "tmdbId": 151912,
+    "titleSlug": "151912",
+    "folder": "Jurassic Fight Club (2008)",
+    "genres": [
+      "Documentary"
+    ],
+    "keywords": [],
+    "tags": [],
+    "added": "0001-01-01T00:00:00Z",
+    "ratings": {
+      "imdb": {
+        "votes": 531,
+        "value": 6.7,
+        "type": "user"
+      },
+      "tmdb": {
+        "votes": 18,
+        "value": 7.5,
+        "type": "user"
+      },
+      "trakt": {
+        "votes": 1,
+        "value": 7,
+        "type": "user"
+      }
+    },
+    "popularity": 0.6963
+  },
+  {
+    "title": "GCW Fight Club",
+    "originalTitle": "GCW Fight Club",
+    "originalLanguage": {
+      "id": 1,
+      "name": "English"
+    },
+    "alternateTitles": [
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 0,
+        "title": "Game Changer Wrestling"
+      }
+    ],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "gcw fight club",
+    "status": "released",
+    "overview": "GCW presents Fight Club straight from the Showboat Hotel in Atlantic City, NJ! The event features the GCW World Championship match where Mox defends against Gage in a match that we have been waiting for during the last decade. Who will be the new GCW World Champion?",
+    "digitalRelease": "2021-10-09T00:00:00Z",
+    "releaseDate": "2021-10-09T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCoverProxy/41e2b929fcafeea6a89606339bd78bb66f5ceca6f6db37c5dbaaa35dc070356e/a9RWdhRLyx3BqCjlwmZJHXyeMkR.jpg",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/a9RWdhRLyx3BqCjlwmZJHXyeMkR.jpg"
+      }
+    ],
+    "website": "",
+    "remotePoster": "https://image.tmdb.org/t/p/original/a9RWdhRLyx3BqCjlwmZJHXyeMkR.jpg",
+    "year": 2021,
+    "youTubeTrailerId": "",
+    "studio": "Game Changer Wrestling",
+    "qualityProfileId": 0,
+    "movieFileId": 0,
+    "monitored": false,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "",
+    "runtime": 231,
+    "cleanTitle": "gcwfightclub",
+    "tmdbId": 883656,
+    "titleSlug": "883656",
+    "folder": "GCW Fight Club (2021)",
+    "genres": [],
+    "keywords": [
+      "professional wrestling",
+      "sports entertainment"
+    ],
+    "tags": [],
+    "added": "0001-01-01T00:00:00Z",
+    "ratings": {
+      "tmdb": {
+        "votes": 22,
+        "value": 7.6,
+        "type": "user"
+      }
+    },
+    "popularity": 0.9076
+  }
+]
