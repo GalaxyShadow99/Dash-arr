@@ -18,7 +18,6 @@ REQUIRED_ENV_VARS = [
     "RADARR_API_KEY",
     "SONARR_URL",
     "SONARR_API_KEY",
-    "API_URL",
 ]
 
 missing_vars = [var for var in REQUIRED_ENV_VARS if not os.getenv(var)]
@@ -40,5 +39,3 @@ RADARR_API_KEY = os.environ["RADARR_API_KEY"]
 
 SONARR_URL = os.environ["SONARR_URL"].rstrip("/")
 SONARR_API_KEY = os.environ["SONARR_API_KEY"]
-
-API_URL = os.environ["API_URL"].rstrip("/")

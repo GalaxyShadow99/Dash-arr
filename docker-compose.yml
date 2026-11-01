@@ -1,0 +1,39 @@
+services:
+  backend:
+    container_name: dasharr_backend
+    build:
+      context: ./backend
+      dockerfile: Dockerfile-backend
+    ports:
+      - '20000:20000'
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    env_file:
+      - .env
+    restart: unless-stopped
+
+  frontend:
+    container_name: dasharr_frontend
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile-frontend
+      args:
+        - VITE_API_URL=${VITE_API_URL:-${API_URL:-http://localhost:20000}}
+    ports:
+      - '20001:20001'
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    env_file:
+      - .env
+    depends_on:
+      backend:
+        condition: service_healthy
+
+    restart: unless-stopped
+

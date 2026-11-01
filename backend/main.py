@@ -1,3 +1,5 @@
+import os
+
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
@@ -11,10 +13,20 @@ app = FastAPI(
     description="Backend FastAPI minimal et sécurisé avec JWT pour Dasharr",
 )
 
-# CORS pour autoriser le frontend Vite
+# Origines autorisees pour CORS (dev Vite, conteneur Docker port 20001, etc.)
+cors_origins = [
+    "http://localhost:5173",
+    "http://127.0.0.1:5173",
+    "http://localhost:20001",
+    "http://127.0.0.1:20001",
+]
+extra_origin = os.getenv("FRONTEND_URL")
+if extra_origin and extra_origin not in cors_origins:
+    cors_origins.append(extra_origin)
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+    allow_origins=cors_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

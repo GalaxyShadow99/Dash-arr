@@ -1,6 +1,5 @@
+import { API_BASE_URL } from '../config';
 import { getAuthToken } from './auth';
-
-const API_BASE_URL = import.meta.env.API_URL ?? import.meta.env.VITE_API_URL ?? 'http://localhost:8000';
 
 function getHeaders() {
   const token = getAuthToken();
