@@ -1,0 +1,875 @@
+[
+  {
+    "title": "Le Loup de Wall Street",
+    "originalTitle": "The Wolf of Wall Street",
+    "originalLanguage": {
+      "id": 1,
+      "name": "English"
+    },
+    "alternateTitles": [
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "华尔街狼人",
+        "id": 101
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "华尔街之狼",
+        "id": 102
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Wilk z Wall Street",
+        "id": 103
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "더 울프 오브 월 스트리트",
+        "id": 104
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "คนจะรวย ช่วยไม่ได้",
+        "id": 105
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Wall Streeti hunt",
+        "id": 106
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "華爾街之狼",
+        "id": 107
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Ուոլթ Սթրիթի Գայլը",
+        "id": 108
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Le Loup de Wall Street",
+        "id": 109
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "דער וואלף פון וואל סטריט",
+        "id": 110
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Воўк з Уол-стрыт",
+        "id": 111
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Вълкът от Уолстрийт",
+        "id": 112
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Волкот од Волстрит",
+        "id": 113
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Волк с Уолл-стрит",
+        "id": 114
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Вук са Вол стрита",
+        "id": 115
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Вовк з Уолл-стріт",
+        "id": 116
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Уолл-стрит кашкăрĕ",
+        "id": 117
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Уолл-стрит қасқыры",
+        "id": 118
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Ο λύκος της Wall Street",
+        "id": 119
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "O lobo de Wall Street",
+        "id": 120
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "El lobo de Wall Street",
+        "id": 121
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "El llobu de Wall Streeet",
+        "id": 122
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Uoll-strit canavarı",
+        "id": 123
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Vuk s Wall Streeta",
+        "id": 124
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Volstrītas vilks",
+        "id": 125
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "A Wall Street farkasa",
+        "id": 126
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Lupul de pe Wall Street",
+        "id": 127
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Vlk z Wall Street",
+        "id": 128
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Volk z Wall Streeta",
+        "id": 129
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "უოლ-სტრიტიშ გერი",
+        "id": 130
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "უოლ-სტრიტის მგელი",
+        "id": 131
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Para Avcısı",
+        "id": 132
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "ذئب وول ستريت",
+        "id": 133
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "گرگ وال استریت",
+        "id": 134
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "د ولف آف وال استریت",
+        "id": 135
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "ديب وول ستريت",
+        "id": 136
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "הזאב מוול סטריט",
+        "id": 137
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "ദി വുൾഫ്‌ ഓഫ്‌ വാൾസ്ട്രീറ്റ്‌",
+        "id": 138
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "ウルフ・オブ・ウォールストリート",
+        "id": 139
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Уолл-стрит карышкыры",
+        "id": 140
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "Sói Già Phố Wall",
+        "id": 141
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "द वुल्फ ऑफ वॉल स्ट्रीट",
+        "id": 142
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 9,
+        "title": "দ্য উল্‌ফ অব ওয়াল স্ট্রিট",
+        "id": 143
+      }
+    ],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "le loup de wall street",
+    "sizeOnDisk": 0,
+    "status": "released",
+    "overview": "Sa licence de courtier en poche, et les narines déjà pleines de cocaïne, Jordan Belfort est prêt à conquérir Wall Street. Ce jour d'octobre, un krach, le plus important depuis 1929, vient piétiner ses rêves de grandeur. C'est finalement à Long Island qu'il échoue et qu'il monte sa propre affaire de courtage. Son créneau : le hors-cote. Sa méthode : l'arnaque. Son équipe : des vendeurs ou des petits trafiquants.",
+    "inCinemas": "2013-12-25T00:00:00Z",
+    "physicalRelease": "2014-03-24T00:00:00Z",
+    "digitalRelease": "2014-03-25T00:00:00Z",
+    "releaseDate": "2013-12-25T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/6/poster.jpg?h=c13a3bc20975eac42fdd",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/6/fanart.jpg?h=41018bcc8089b32c9806",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg"
+      }
+    ],
+    "website": "http://www.thewolfofwallstreet.com/",
+    "year": 2013,
+    "youTubeTrailerId": "Slj4-Sv-YNA",
+    "studio": "Red Granite Pictures",
+    "path": "/movies/Le Loup de Wall Street (2013)",
+    "qualityProfileId": 4,
+    "hasFile": false,
+    "movieFileId": 0,
+    "monitored": true,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "/movies/Le Loup de Wall Street (2013)",
+    "runtime": 180,
+    "cleanTitle": "thewolfwallstreet",
+    "imdbId": "tt0993846",
+    "tmdbId": 106646,
+    "titleSlug": "106646",
+    "rootFolderPath": "/movies",
+    "certification": "R",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "keywords": [
+      "1980s",
+      "anti hero",
+      "based on novel or book",
+      "based on real person",
+      "based on true story",
+      "biography",
+      "black monday",
+      "con artist",
+      "con man",
+      "corrupt",
+      "corruption",
+      "decadence",
+      "desire for fame",
+      "drug addiction",
+      "drugs",
+      "fame-seeking",
+      "financial drama",
+      "financial market",
+      "fraud",
+      "hedonism",
+      "money",
+      "rise and fall",
+      "sharemarket fraud",
+      "stockbroker",
+      "stripping",
+      "wall street",
+      "wealthy"
+    ],
+    "tags": [],
+    "added": "2026-10-15T09:52:07Z",
+    "ratings": {
+      "imdb": {
+        "votes": 1834811,
+        "value": 8.2,
+        "type": "user"
+      },
+      "tmdb": {
+        "votes": 26853,
+        "value": 8,
+        "type": "user"
+      },
+      "metacritic": {
+        "votes": 0,
+        "value": 75,
+        "type": "user"
+      },
+      "rottenTomatoes": {
+        "votes": 0,
+        "value": 79,
+        "type": "user"
+      },
+      "trakt": {
+        "votes": 43714,
+        "value": 8.18962,
+        "type": "user"
+      }
+    },
+    "popularity": 28.4007,
+    "lastSearchTime": "2026-11-01T12:48:07Z",
+    "statistics": {
+      "movieFileCount": 0,
+      "sizeOnDisk": 0,
+      "releaseGroups": [],
+      "movieFileQualities": []
+    },
+    "id": 6
+  },
+  {
+    "title": "Toi+Moi - Seuls contre tous",
+    "originalTitle": "Toi+Moi - Seuls contre tous",
+    "originalLanguage": {
+      "id": 2,
+      "name": "French"
+    },
+    "alternateTitles": [
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 10,
+        "title": "Toi+Moi - Sozinhos Contra Todos",
+        "id": 151
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 10,
+        "title": "Io+Te - Soli contro tutti",
+        "id": 152
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 10,
+        "title": "You plus Me - Against the World",
+        "id": 153
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 10,
+        "title": "你和我：与世界为敌",
+        "id": 154
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 10,
+        "title": "Io Piu Te Soli Contro Tutti",
+        "id": 155
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 10,
+        "title": "Du und Ich Alleine gegen Alle",
+        "id": 156
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 10,
+        "title": "เธอ+ฉัน - และโลกที่ขวางเรา",
+        "id": 157
+      }
+    ],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "toimoi seuls contre tous",
+    "sizeOnDisk": 0,
+    "status": "released",
+    "overview": "Dans le dos de ses parents qui la pensent inscrite en droit, Alma Lancaster, jeune femme de bonne famille, s'est donné un an pour poursuivre son rêve de cinéma. Alors qu'elle est contrainte de réaliser un film avec Vadim Arcadi, jeune homme sans attaches, une attirance électrique naît entre eux. Dans l'ombre, une menace invisible les guette, bien décidée à les séparer au risque de tout révéler…",
+    "digitalRelease": "2026-09-18T00:00:00Z",
+    "releaseDate": "2026-09-18T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/8/poster.jpg?h=e0ee9c1a94334f0792b5",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/bAbBNVplg7h79sm94OyHeKk8Phz.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/8/fanart.jpg?h=9e158964f57487e267fc",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg"
+      }
+    ],
+    "website": "https://www.amazon.com/gp/video/detail/B0HHQMLC42",
+    "year": 2026,
+    "youTubeTrailerId": "z2Bw_nTXjG4",
+    "studio": "Originals by Trésor",
+    "path": "/movies/You+Me - Against the World (2026)",
+    "qualityProfileId": 4,
+    "hasFile": false,
+    "movieFileId": 0,
+    "monitored": true,
+    "minimumAvailability": "released",
+    "isAvailable": true,
+    "folderName": "/movies/You+Me - Against the World (2026)",
+    "runtime": 94,
+    "cleanTitle": "youmeagainstworld",
+    "imdbId": "tt43617372",
+    "tmdbId": 1641629,
+    "titleSlug": "1641629",
+    "rootFolderPath": "/movies",
+    "certification": "R",
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "keywords": [
+      "based on novel or book",
+      "college",
+      "filmmaking",
+      "love",
+      "teenage love"
+    ],
+    "tags": [],
+    "added": "2026-10-15T12:05:02Z",
+    "ratings": {
+      "imdb": {
+        "votes": 2040,
+        "value": 4.8,
+        "type": "user"
+      },
+      "tmdb": {
+        "votes": 113,
+        "value": 5.5,
+        "type": "user"
+      }
+    },
+    "popularity": 28.9576,
+    "lastSearchTime": "2026-11-01T12:48:13Z",
+    "statistics": {
+      "movieFileCount": 0,
+      "sizeOnDisk": 0,
+      "releaseGroups": [],
+      "movieFileQualities": []
+    },
+    "id": 8
+  },
+  {
+    "title": "Fight Club",
+    "originalTitle": "Fight Club",
+    "originalLanguage": {
+      "id": 1,
+      "name": "English"
+    },
+    "alternateTitles": [
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Mo'adon Krav",
+        "id": 408
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Borilački klub",
+        "id": 409
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Boytsovskiy klub",
+        "id": 410
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Boen klub",
+        "id": 411
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Biytsivsʹkyy klub",
+        "id": 412
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Байцоўскі клюб",
+        "id": 413
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Döyüş Klubu",
+        "id": 414
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "მალჷმორეფიშ კლუბი",
+        "id": 415
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Մարտական ակումբ",
+        "id": 416
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "النادي د لمدابزة",
+        "id": 417
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "نادى القتال",
+        "id": 418
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Мушташ клубу",
+        "id": 419
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "فایت کلاب",
+        "id": 420
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "फाइट क्लब",
+        "id": 421
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "ਫ਼ਾਈਟ ਕਲੱਬ",
+        "id": 422
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "搏击会",
+        "id": 423
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "鬥陣俱樂部",
+        "id": 424
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 21,
+        "title": "Մարտ Ակումբ",
+        "id": 425
+      }
+    ],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "fight club",
+    "sizeOnDisk": 0,
+    "status": "released",
+    "overview": "Le narrateur, sans identité précise, vit seul, travaille seul, dort seul, mange seul ses plateaux‐repas pour une personne comme beaucoup d’autres personnes seules qui connaissent la misère humaine, morale et sexuelle. C’est pourquoi il va devenir membre du Fight club, un lieu clandestin où il va pouvoir retrouver sa virilité, l’échange et la communication. Ce club est dirigé par Tyler Durden, une sorte d’anarchiste entre gourou et philosophe qui prêche l’amour de son prochain.",
+    "inCinemas": "1999-10-15T00:00:00Z",
+    "physicalRelease": "2000-04-25T00:00:00Z",
+    "digitalRelease": "2001-05-26T00:00:00Z",
+    "releaseDate": "1999-10-15T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/23/poster.jpg?h=01cd2e7c188920d1d8f1",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/23/fanart.jpg?h=97b7eeffe15bb7be11be",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/c6OLXfKAk5BKeR6broC8pYiCquX.jpg"
+      }
+    ],
+    "website": "https://www.20thcenturystudios.com/movies/fight-club",
+    "year": 1999,
+    "youTubeTrailerId": "dfeUzm6KF4g",
+    "studio": "Fox 2000 Pictures",
+    "path": "/movies/Fight Club (1999)",
+    "qualityProfileId": 4,
+    "hasFile": false,
+    "movieFileId": 0,
+    "monitored": true,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "/movies/Fight Club (1999)",
+    "runtime": 139,
+    "cleanTitle": "fightclub",
+    "imdbId": "tt0137523",
+    "tmdbId": 550,
+    "titleSlug": "550",
+    "rootFolderPath": "/movies",
+    "certification": "R",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "keywords": [
+      "alter ego",
+      "based on novel or book",
+      "breaking the fourth wall",
+      "dissociative identity disorder",
+      "dual identity",
+      "dystopia",
+      "fight",
+      "insomnia",
+      "nihilism",
+      "quitting a job",
+      "rage and hate",
+      "self destructiveness",
+      "split personality",
+      "support group"
+    ],
+    "tags": [],
+    "added": "2026-10-20T17:07:21Z",
+    "ratings": {
+      "imdb": {
+        "votes": 2677211,
+        "value": 8.8,
+        "type": "user"
+      },
+      "tmdb": {
+        "votes": 33173,
+        "value": 8.438,
+        "type": "user"
+      },
+      "metacritic": {
+        "votes": 0,
+        "value": 67,
+        "type": "user"
+      },
+      "rottenTomatoes": {
+        "votes": 0,
+        "value": 81,
+        "type": "user"
+      },
+      "trakt": {
+        "votes": 45684,
+        "value": 8.68772,
+        "type": "user"
+      }
+    },
+    "popularity": 41.8475,
+    "lastSearchTime": "2026-11-01T12:48:05Z",
+    "statistics": {
+      "movieFileCount": 0,
+      "sizeOnDisk": 0,
+      "releaseGroups": [],
+      "movieFileQualities": []
+    },
+    "id": 23
+  },
+  {
+    "title": "Drive – The Pretenders",
+    "originalTitle": "Drive – The Pretenders",
+    "originalLanguage": {
+      "id": 4,
+      "name": "German"
+    },
+    "alternateTitles": [
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 22,
+        "title": "Drive - Sahtekarlar",
+        "id": 426
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 22,
+        "title": "แกล้งรัก หักพวงมาลัย",
+        "id": 427
+      },
+      {
+        "sourceType": "tmdb",
+        "movieMetadataId": 22,
+        "title": "假戏真做 - 狂飙",
+        "id": 428
+      }
+    ],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "drive the pretenders",
+    "sizeOnDisk": 0,
+    "status": "released",
+    "overview": "Une jeune mécanicienne accepte de jouer la fiancée d'un champion automobile en pleine disgrâce, en apparence pour aider à redorer l'image du pilote, en secret pour s'offrir sa chance au volant. Mais le mensonge menace bientôt de tout détruire, y compris ce qui est devenu bien plus qu'un simple arrangement…",
+    "digitalRelease": "2026-10-27T00:00:00Z",
+    "releaseDate": "2026-10-27T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/24/poster.jpg?h=298dae6185fac04fb7f6",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/24/fanart.jpg?h=6f6ddfaecddef262dd56",
+        "remoteUrl": "https://image.tmdb.org/t/p/original/hbz4aeVsjnKb2HRoFbbr46Egh8y.jpg"
+      }
+    ],
+    "website": "https://www.amazon.com/gp/video/detail/B0HKXGTVDS",
+    "year": 2026,
+    "youTubeTrailerId": "-sV69CJwUwU",
+    "studio": "Bavaria Fiction",
+    "path": "/movies/Drive - The Pretenders (2026)",
+    "qualityProfileId": 4,
+    "hasFile": false,
+    "movieFileId": 0,
+    "monitored": true,
+    "minimumAvailability": "released",
+    "isAvailable": true,
+    "folderName": "/movies/Drive - The Pretenders (2026)",
+    "runtime": 103,
+    "cleanTitle": "drivepretenders",
+    "imdbId": "tt37180686",
+    "tmdbId": 1596275,
+    "titleSlug": "1596275",
+    "rootFolderPath": "/movies",
+    "certification": "R",
+    "genres": [
+      "Romance",
+      "Thriller"
+    ],
+    "keywords": [
+      "based on novel or book",
+      "fake relationship",
+      "female mechanic",
+      "racing",
+      "ulterior motive dating"
+    ],
+    "tags": [],
+    "added": "2026-10-30T09:46:28Z",
+    "ratings": {
+      "tmdb": {
+        "votes": 51,
+        "value": 7.941,
+        "type": "user"
+      }
+    },
+    "popularity": 278.399,
+    "lastSearchTime": "2026-11-01T12:54:44Z",
+    "statistics": {
+      "movieFileCount": 0,
+      "sizeOnDisk": 0,
+      "releaseGroups": [],
+      "movieFileQualities": []
+    },
+    "id": 24
+  },
+  {
+    "title": "The Summer I Turned Pretty: The Movie",
+    "originalTitle": "The Summer I Turned Pretty: The Movie",
+    "originalLanguage": {
+      "id": 1,
+      "name": "English"
+    },
+    "alternateTitles": [],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "summer i turned pretty the movie",
+    "sizeOnDisk": 0,
+    "status": "announced",
+    "overview": "A continuation of the events following the end of the TV series 'The Summer I Turned Pretty.\"",
+    "images": [],
+    "website": "",
+    "year": 0,
+    "youTubeTrailerId": "",
+    "studio": "Amazon MGM Studios",
+    "path": "/movies/The Summer I Turned Pretty The Movie",
+    "qualityProfileId": 4,
+    "hasFile": false,
+    "movieFileId": 0,
+    "monitored": true,
+    "minimumAvailability": "tba",
+    "isAvailable": true,
+    "folderName": "/movies/The Summer I Turned Pretty The Movie",
+    "runtime": 0,
+    "cleanTitle": "thesummeriturnedprettymovie",
+    "imdbId": "tt38353629",
+    "tmdbId": 1548004,
+    "titleSlug": "1548004",
+    "rootFolderPath": "/movies",
+    "genres": [
+      "Romance"
+    ],
+    "keywords": [
+      "based on novel or book",
+      "based on tv series"
+    ],
+    "tags": [],
+    "added": "2026-10-31T14:25:56Z",
+    "ratings": {
+      "tmdb": {
+        "votes": 0,
+        "value": 0,
+        "type": "user"
+      }
+    },
+    "popularity": 2.5352,
+    "lastSearchTime": "2026-11-01T12:48:19Z",
+    "statistics": {
+      "movieFileCount": 0,
+      "sizeOnDisk": 0,
+      "releaseGroups": [],
+      "movieFileQualities": []
+    },
+    "id": 25
+  }
+]

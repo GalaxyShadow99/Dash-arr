@@ -1,0 +1,4471 @@
+[
+  {
+    "guid": "0362d3feb98d9160b109525ab7147aa371119f7c",
+    "quality": {
+      "quality": {
+        "id": 22,
+        "name": "BR-DISK",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "brdisk"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2401,
+    "age": 47,
+    "ageHours": 1140.4332775418056,
+    "ageMinutes": 68425.99665250833,
+    "size": 85864855260,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "TMT",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.2160p.UHD.BluRay.BDMV.HDR.DTS.HD.MA.5.1.HEVC-TMT",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "BR-DISK is not wanted in profile"
+    ],
+    "publishDate": "2026-09-15T01:05:23Z",
+    "commentUrl": "https://c411.org/torrents/0362d3feb98d9160b109525ab7147aa371119f7c",
+    "downloadUrl": "https://c411.org/api?t=get&id=0362d3feb98d9160b109525ab7147aa371119f7c&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/0362d3feb98d9160b109525ab7147aa371119f7c",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 0,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "0362d3feb98d9160b109525ab7147aa371119f7c",
+    "seeders": 12,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "9fd8b72032135a6aafa89fe006129dfc26c9880a",
+    "quality": {
+      "quality": {
+        "id": 22,
+        "name": "BR-DISK",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "brdisk"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2401,
+    "age": 180,
+    "ageHours": 4340.4360553246115,
+    "ageMinutes": 260426.16331947668,
+    "size": 85868609536,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "SURCODE",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.2160p.UHD.BluRay.ISO.HDR10.DTS.HD.MA.5.1.HEVC-SURCODE",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "BR-DISK is not wanted in profile"
+    ],
+    "publishDate": "2026-05-04T17:05:13Z",
+    "commentUrl": "https://c411.org/torrents/9fd8b72032135a6aafa89fe006129dfc26c9880a",
+    "downloadUrl": "https://c411.org/api?t=get&id=9fd8b72032135a6aafa89fe006129dfc26c9880a&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/9fd8b72032135a6aafa89fe006129dfc26c9880a",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 1,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "9fd8b72032135a6aafa89fe006129dfc26c9880a",
+    "seeders": 11,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-2160p-full-bluray-hdr-hevc-dts-hd-ma-5-1-surcode-t9-262639",
+    "quality": {
+      "quality": {
+        "id": 22,
+        "name": "BR-DISK",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "brdisk"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2401,
+    "age": 176,
+    "ageHours": 4240.146055325334,
+    "ageMinutes": 254408.76331952,
+    "size": 85868609536,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "SURCODE",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.2160p.Full.BluRay.HDR.HEVC.DTS-HD.MA.5.1-SURCODE",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "BR-DISK is not wanted in profile",
+      "Raw Bluray/DVD release"
+    ],
+    "publishDate": "2026-05-08T21:22:37Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-2160p-full-bluray-hdr-hevc-dts-hd-ma-5-1-surcode-t9-262639",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-2160p-full-bluray-hdr-hevc-dts-hd-ma-5-1-surcode-t9-262639/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-2160p-full-bluray-hdr-hevc-dts-hd-ma-5-1-surcode-t9-262639",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 2,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "5f7054880dd65a873406243163fc761b81346f3b",
+    "seeders": 5,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-vostfr-2160p-bluray-hevc-dts-hd-ma-cinephiles-t9-292494",
+    "quality": {
+      "quality": {
+        "id": 22,
+        "name": "BR-DISK",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "brdisk"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2401,
+    "age": 150,
+    "ageHours": 3615.5674442151667,
+    "ageMinutes": 216934.04665291,
+    "size": 75897599147,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "CiNEPHiLES",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.VOSTFR.2160p.BluRay.HEVC.DTS-HD.MA-CiNEPHiLES",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "French is wanted, but found English",
+      "BR-DISK is not wanted in profile"
+    ],
+    "publishDate": "2026-06-03T21:57:20Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-vostfr-2160p-bluray-hevc-dts-hd-ma-cinephiles-t9-292494",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-vostfr-2160p-bluray-hevc-dts-hd-ma-cinephiles-t9-292494/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-vostfr-2160p-bluray-hevc-dts-hd-ma-cinephiles-t9-292494",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 3,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "40a63d034827c3414ac898bf828f383f254a3319",
+    "seeders": 1,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "2a3ab36c66c24efc08061b7448fc161048183644",
+    "quality": {
+      "quality": {
+        "id": 22,
+        "name": "BR-DISK",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "brdisk"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2401,
+    "age": 179,
+    "ageHours": 4299.012444215806,
+    "ageMinutes": 257940.74665294832,
+    "size": 48695410688,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "UNTOUCHED",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.REMASTERED.MULTi.VFF.1080p.BluRay.ISO.DTS.HD.MA.5.1.AVC-UNTOUCHED",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "BR-DISK is not wanted in profile"
+    ],
+    "publishDate": "2026-05-06T10:30:38Z",
+    "commentUrl": "https://c411.org/torrents/2a3ab36c66c24efc08061b7448fc161048183644",
+    "downloadUrl": "https://c411.org/api?t=get&id=2a3ab36c66c24efc08061b7448fc161048183644&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/2a3ab36c66c24efc08061b7448fc161048183644",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 4,
+    "edition": "REMASTERED",
+    "magnetUrl": "",
+    "infoHash": "2a3ab36c66c24efc08061b7448fc161048183644",
+    "seeders": 3,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-hybrid-vfq-2160p-bluray-remux-10bits-dv-hdr10-dts-hd-ma-6-1-h265-only-e48f60d8",
+    "quality": {
+      "quality": {
+        "id": 31,
+        "name": "Remux-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2301,
+    "age": 143,
+    "ageHours": 3449.129388660861,
+    "ageMinutes": 206947.76331965334,
+    "size": 78070217579,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "ONLY",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.HYBRID.VFQ.2160p.Bluray.Remux.10bits.DV.HDR10.DTS-HD.MA.6.1.H265-ONLY",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Remux-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-06-10T20:23:37Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-hybrid-vfq-2160p-bluray-remux-10bits-dv-hdr10-dts-hd-ma-6-1-h265-only-e48f60d8",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-hybrid-vfq-2160p-bluray-remux-10bits-dv-hdr10-dts-hd-ma-6-1-h265-only-e48f60d8/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-hybrid-vfq-2160p-bluray-remux-10bits-dv-hdr10-dts-hd-ma-6-1-h265-only-e48f60d8",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 5,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "e48f60d8e8f0dc2b18f539ea73bb863f5d84cd0a",
+    "seeders": 7,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "cd3e6b428164e64a55b46680a2d576391a0398c6",
+    "quality": {
+      "quality": {
+        "id": 31,
+        "name": "Remux-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2301,
+    "age": 151,
+    "ageHours": 3627.6988331059724,
+    "ageMinutes": 217661.92998635833,
+    "size": 77824083783,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "TTK",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.2160p.HYBRID.UHD.BluRay.REMUX.DV.HDR10Plus.DTS.HD.MA.5.1.HEVC-TTK",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Remux-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-06-03T09:49:27Z",
+    "commentUrl": "https://c411.org/torrents/cd3e6b428164e64a55b46680a2d576391a0398c6",
+    "downloadUrl": "https://c411.org/api?t=get&id=cd3e6b428164e64a55b46680a2d576391a0398c6&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/cd3e6b428164e64a55b46680a2d576391a0398c6",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 6,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "cd3e6b428164e64a55b46680a2d576391a0398c6",
+    "seeders": 25,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-hybrid-uhd-bluray-remux-dv-hdr10-hevc-dts-hd-ma-5-1-ttk-t9-295892",
+    "quality": {
+      "quality": {
+        "id": 31,
+        "name": "Remux-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2301,
+    "age": 146,
+    "ageHours": 3507.297999773167,
+    "ageMinutes": 210437.87998639,
+    "size": 77824083783,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "TTK",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.2160p.HYBRID.UHD.BluRay.REMUX.DV.HDR10+.HEVC.DTS-HD.MA.5.1-TTK",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Remux-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-06-08T10:13:30Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-hybrid-uhd-bluray-remux-dv-hdr10-hevc-dts-hd-ma-5-1-ttk-t9-295892",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-2160p-hybrid-uhd-bluray-remux-dv-hdr10-hevc-dts-hd-ma-5-1-ttk-t9-295892/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-hybrid-uhd-bluray-remux-dv-hdr10-hevc-dts-hd-ma-5-1-ttk-t9-295892",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 7,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "18b54153f646eb2cd68a3934d11b5e39510544c6",
+    "seeders": 9,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-rm-multi-vf2-2160p-uhd-bluray-remux-custom-hdr10-dts-hd-ma-5-1-hevc-rebirth-t9-281198",
+    "quality": {
+      "quality": {
+        "id": 31,
+        "name": "Remux-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2301,
+    "age": 163,
+    "ageHours": 3922.5438331071946,
+    "ageMinutes": 235352.62998643165,
+    "size": 76228566611,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "REBiRTH",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.RM.MULTi.VF2.2160p.UHD.BluRay.REMUX.CUSTOM.HDR10.DTS-HD.MA.5.1.HEVC-REBiRTH",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Remux-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-22T02:58:45Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-rm-multi-vf2-2160p-uhd-bluray-remux-custom-hdr10-dts-hd-ma-5-1-hevc-rebirth-t9-281198",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-rm-multi-vf2-2160p-uhd-bluray-remux-custom-hdr10-dts-hd-ma-5-1-hevc-rebirth-t9-281198/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-rm-multi-vf2-2160p-uhd-bluray-remux-custom-hdr10-dts-hd-ma-5-1-hevc-rebirth-t9-281198",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 8,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "6eee6981a13d4c493960e4efeb5a0fa489de3316",
+    "seeders": 22,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-hybrid-multi-vff-2160p-dv-hdr-uhd-bluray-remux-hevc-batgirl-t9-265550",
+    "quality": {
+      "quality": {
+        "id": 31,
+        "name": "Remux-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2301,
+    "age": 174,
+    "ageHours": 4198.432721996639,
+    "ageMinutes": 251905.96331979832,
+    "size": 75351919096,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "BATGirl",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.Hybrid.MULTi.VFF.2160p.DV.HDR.UHD.BLURAY.REMUX.HEVC-BATGirl",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Remux-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-10T15:05:25Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-hybrid-multi-vff-2160p-dv-hdr-uhd-bluray-remux-hevc-batgirl-t9-265550",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-hybrid-multi-vff-2160p-dv-hdr-uhd-bluray-remux-hevc-batgirl-t9-265550/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-hybrid-multi-vff-2160p-dv-hdr-uhd-bluray-remux-hevc-batgirl-t9-265550",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 9,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "1618ed17d789b644723c6f45ca0739a41ec6faad",
+    "seeders": 7,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "797aeb6871238ceb350d4e3cd65aa8b4e71a6738",
+    "quality": {
+      "quality": {
+        "id": 31,
+        "name": "Remux-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2301,
+    "age": 180,
+    "ageHours": 4337.23772199725,
+    "ageMinutes": 260234.263319835,
+    "size": 75215874684,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "SpLiCeR",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VF2.2160p.UHD.BluRay.REMUX.HDR.DTS.HD.MA.5.1.HEVC-SpLiCeR",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Remux-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-04T20:17:07Z",
+    "commentUrl": "https://c411.org/torrents/797aeb6871238ceb350d4e3cd65aa8b4e71a6738",
+    "downloadUrl": "https://c411.org/api?t=get&id=797aeb6871238ceb350d4e3cd65aa8b4e71a6738&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/797aeb6871238ceb350d4e3cd65aa8b4e71a6738",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 10,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "797aeb6871238ceb350d4e3cd65aa8b4e71a6738",
+    "seeders": 26,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vf2-2160p-uhd-bluray-remux-hdr-x265-dts-hd-ma-5-1-splicer-t9-259273",
+    "quality": {
+      "quality": {
+        "id": 31,
+        "name": "Remux-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2301,
+    "age": 180,
+    "ageHours": 4321.728833108917,
+    "ageMinutes": 259303.729986535,
+    "size": 75215874684,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "SpLiCeR",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VF2.2160p.UHD.BluRay.REMUX.HDR.x265.DTS-HD.MA.5.1-SpLiCeR",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Remux-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-05T11:47:39Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vf2-2160p-uhd-bluray-remux-hdr-x265-dts-hd-ma-5-1-splicer-t9-259273",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vf2-2160p-uhd-bluray-remux-hdr-x265-dts-hd-ma-5-1-splicer-t9-259273/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vf2-2160p-uhd-bluray-remux-hdr-x265-dts-hd-ma-5-1-splicer-t9-259273",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 11,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "0707659d33a7675985c99c082b231c25bcd5eb24",
+    "seeders": 12,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "9839103334405ec133ea3e35c191e60f132d30cd",
+    "quality": {
+      "quality": {
+        "id": 31,
+        "name": "Remux-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2301,
+    "age": 28,
+    "ageHours": 694.9652219985278,
+    "ageMinutes": 41697.91331991167,
+    "size": 74064375211,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "OZEF",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.2160p.UHD.BLURAY.REMUX.HDR10.DTS.HD.MA.5.1.HEVC-OZEF",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Remux-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-10-03T14:33:28Z",
+    "commentUrl": "https://c411.org/torrents/9839103334405ec133ea3e35c191e60f132d30cd",
+    "downloadUrl": "https://c411.org/api?t=get&id=9839103334405ec133ea3e35c191e60f132d30cd&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/9839103334405ec133ea3e35c191e60f132d30cd",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 12,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "9839103334405ec133ea3e35c191e60f132d30cd",
+    "seeders": 13,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-repack-hybrid-multi-vff-4klight-custom-2160p-bluray-10bits-dv-hdr10plus-dts-hd-ma-6-1-x265-t4kt-fa94a87f",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 2,
+        "real": 0,
+        "isRepack": true
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2202,
+    "age": 63,
+    "ageHours": 1531.2499442211945,
+    "ageMinutes": 91874.99665327166,
+    "size": 14479857843,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "T4KT",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.REPACK.HYBRiD.MULTi.VFF.4KLight.2160p.Bluray.10bits.DV.HDR10Plus.DTS.HD.MA.6.1.x265-T4KT",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-08-29T18:16:23Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-repack-hybrid-multi-vff-4klight-custom-2160p-bluray-10bits-dv-hdr10plus-dts-hd-ma-6-1-x265-t4kt-fa94a87f",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-repack-hybrid-multi-vff-4klight-custom-2160p-bluray-10bits-dv-hdr10plus-dts-hd-ma-6-1-x265-t4kt-fa94a87f/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-repack-hybrid-multi-vff-4klight-custom-2160p-bluray-10bits-dv-hdr10plus-dts-hd-ma-6-1-x265-t4kt-fa94a87f",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 13,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "fa94a87febb5e87de992465a80be93e16c9255bf",
+    "seeders": 58,
+    "leechers": 1,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-repack-hybrid-multi-vff-4klight-custom-2160p-bluray-10bits-dv-hdr10plus-eac3-5-1-x265-t4kt-f741a7b6",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 2,
+        "real": 0,
+        "isRepack": true
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2202,
+    "age": 63,
+    "ageHours": 1531.2238331106112,
+    "ageMinutes": 91873.42998663666,
+    "size": 8260854335,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "T4KT",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.REPACK.HYBRiD.MULTi.VFF.4KLight.2160p.Bluray.10bits.DV.HDR10Plus.EAC3.5.1.x265-T4KT",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-08-29T18:17:57Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-repack-hybrid-multi-vff-4klight-custom-2160p-bluray-10bits-dv-hdr10plus-eac3-5-1-x265-t4kt-f741a7b6",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-repack-hybrid-multi-vff-4klight-custom-2160p-bluray-10bits-dv-hdr10plus-eac3-5-1-x265-t4kt-f741a7b6/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-repack-hybrid-multi-vff-4klight-custom-2160p-bluray-10bits-dv-hdr10plus-eac3-5-1-x265-t4kt-f741a7b6",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 14,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "f741a7b61e9453b31cc49b5662a4c63f6be71850",
+    "seeders": 45,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "238fcd64e6508d9d57fb129f3f0a101ab630dbc8",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 14,
+    "ageHours": 355.8768886666667,
+    "ageMinutes": 21352.61332,
+    "size": 25998237256,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "GGN",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.2160p.BluRay.DV.HDR10Plus.DTS.HD.MA.5.1.x265-GGN",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-10-17T17:38:46Z",
+    "commentUrl": "https://c411.org/torrents/238fcd64e6508d9d57fb129f3f0a101ab630dbc8",
+    "downloadUrl": "https://c411.org/api?t=get&id=238fcd64e6508d9d57fb129f3f0a101ab630dbc8&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/238fcd64e6508d9d57fb129f3f0a101ab630dbc8",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 15,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "238fcd64e6508d9d57fb129f3f0a101ab630dbc8",
+    "seeders": 42,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "135dc198cf1f630148d40f76722c204aaf32827b",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 168,
+    "ageHours": 4035.053833111667,
+    "ageMinutes": 242103.2299867,
+    "size": 17746152413,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "Katairi",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.2160p.BluRay.4KLight.DV.HDR10Plus.DTS.HD.MA.5.1.x265-Katairi",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-17T10:28:09Z",
+    "commentUrl": "https://c411.org/torrents/135dc198cf1f630148d40f76722c204aaf32827b",
+    "downloadUrl": "https://c411.org/api?t=get&id=135dc198cf1f630148d40f76722c204aaf32827b&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/135dc198cf1f630148d40f76722c204aaf32827b",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 16,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "135dc198cf1f630148d40f76722c204aaf32827b",
+    "seeders": 90,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-bluray-4klight-x265-dv-hdr10plus-dts-hd-ma-5-1-katairi-t9-275627",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 168,
+    "ageHours": 4035.0221664456944,
+    "ageMinutes": 242101.32998674168,
+    "size": 17746152413,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "Katairi",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.2160p.BluRay.4KLight.x265.DV.HDR10Plus.DTS.HD.MA.5.1-Katairi",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-17T10:30:03Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-bluray-4klight-x265-dv-hdr10plus-dts-hd-ma-5-1-katairi-t9-275627",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-2160p-bluray-4klight-x265-dv-hdr10plus-dts-hd-ma-5-1-katairi-t9-275627/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-bluray-4klight-x265-dv-hdr10plus-dts-hd-ma-5-1-katairi-t9-275627",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 17,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "b2e9a832c42bdc3894f009350e6eba09893033a3",
+    "seeders": 38,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "25be9c610a20f6729d4aa11782af67581b8b020b",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 176,
+    "ageHours": 4227.023277557389,
+    "ageMinutes": 253621.39665344334,
+    "size": 12406338106,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "XANDER",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.2160p.BluRay.DV.HDR10.DTS.HD.MA.5.1.x265-XANDER",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-09T10:29:59Z",
+    "commentUrl": "https://c411.org/torrents/25be9c610a20f6729d4aa11782af67581b8b020b",
+    "downloadUrl": "https://c411.org/api?t=get&id=25be9c610a20f6729d4aa11782af67581b8b020b&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/25be9c610a20f6729d4aa11782af67581b8b020b",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 18,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "25be9c610a20f6729d4aa11782af67581b8b020b",
+    "seeders": 110,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-10bit-dv-hdr-bluray-x265-dts-hd-ma-5-1-xander-t9-262924",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 176,
+    "ageHours": 4229.619944224528,
+    "ageMinutes": 253777.19665347168,
+    "size": 12406338106,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "XANDER",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.2160p.10bit.DV.HDR.BluRay.x265.DTS.HD.MA.5.1-XANDER",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-09T07:54:11Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-10bit-dv-hdr-bluray-x265-dts-hd-ma-5-1-xander-t9-262924",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-2160p-10bit-dv-hdr-bluray-x265-dts-hd-ma-5-1-xander-t9-262924/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-10bit-dv-hdr-bluray-x265-dts-hd-ma-5-1-xander-t9-262924",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 19,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "f392ad3665fb695b60206b79eb68a9d1bc7b911a",
+    "seeders": 57,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "ba7763ec18713914552014d9de214ac41697d253",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 178,
+    "ageHours": 4291.5607775583885,
+    "ageMinutes": 257493.64665350333,
+    "size": 9772944108,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "MrEllde",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.2160p.BluRay.HDR10.DTS.5.1.x265-MrEllde",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-06T17:57:44Z",
+    "commentUrl": "https://c411.org/torrents/ba7763ec18713914552014d9de214ac41697d253",
+    "downloadUrl": "https://c411.org/api?t=get&id=ba7763ec18713914552014d9de214ac41697d253&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/ba7763ec18713914552014d9de214ac41697d253",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 20,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "ba7763ec18713914552014d9de214ac41697d253",
+    "seeders": 84,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-bluray-hdr10-dts-5-1-x265-mrellde-t9-263955",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 175,
+    "ageHours": 4220.298833114417,
+    "ageMinutes": 253217.92998686666,
+    "size": 9772944108,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "MrEllde",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.2160p.BluRay.HDR10.DTS.5.1.x265-MrEllde",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-09T17:13:27Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-bluray-hdr10-dts-5-1-x265-mrellde-t9-263955",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-2160p-bluray-hdr10-dts-5-1-x265-mrellde-t9-263955/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-bluray-hdr10-dts-5-1-x265-mrellde-t9-263955",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 21,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "aec66e0c85191f8f4a27e7026266083f8773c5e9",
+    "seeders": 38,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "e8e1892b382d8696afcaa824548879cf2eac5aec",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 151,
+    "ageHours": 3627.635777559528,
+    "ageMinutes": 217658.14665357166,
+    "size": 5135049611,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "TTK",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.2160p.BluRay.4KLight.DV.HDR10Plus.EAC3.5.1.x265-TTK",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-06-03T09:53:14Z",
+    "commentUrl": "https://c411.org/torrents/e8e1892b382d8696afcaa824548879cf2eac5aec",
+    "downloadUrl": "https://c411.org/api?t=get&id=e8e1892b382d8696afcaa824548879cf2eac5aec&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/e8e1892b382d8696afcaa824548879cf2eac5aec",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 22,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "e8e1892b382d8696afcaa824548879cf2eac5aec",
+    "seeders": 160,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-bluray-4klight-dv-hdr10-x265-eac3-5-1-ttk-t9-295824",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 146,
+    "ageHours": 3508.6279997822776,
+    "ageMinutes": 210517.67998693834,
+    "size": 5135049611,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "TTK",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.2160p.BluRay.4KLight.DV.HDR10+.x265.EAC3.5.1-TTK",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-06-08T08:53:42Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-bluray-4klight-dv-hdr10-x265-eac3-5-1-ttk-t9-295824",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-2160p-bluray-4klight-dv-hdr10-x265-eac3-5-1-ttk-t9-295824/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-bluray-4klight-dv-hdr10-x265-eac3-5-1-ttk-t9-295824",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 23,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "40e27d6bf451ffbc93c03b824f8bfc558a5a78b1",
+    "seeders": 63,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "5d3705d90ea2d46c5dc3e8e982de062025408f51",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 179,
+    "ageHours": 4315.362722005,
+    "ageMinutes": 258921.7633203,
+    "size": 19284701666,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "Fist",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.VOSTFR.2160p.BluRay.HDR.DTS.HD.MA.5.1.x265-Fist",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "French is wanted, but found English",
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-05T18:09:37Z",
+    "commentUrl": "https://c411.org/torrents/5d3705d90ea2d46c5dc3e8e982de062025408f51",
+    "downloadUrl": "https://c411.org/api?t=get&id=5d3705d90ea2d46c5dc3e8e982de062025408f51&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/5d3705d90ea2d46c5dc3e8e982de062025408f51",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 24,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "5d3705d90ea2d46c5dc3e8e982de062025408f51",
+    "seeders": 24,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-4klight-2160p-bluray-10bits-dv-hdr10plus-dts-hd-ma-5-1-x265-katairi-20644f8a",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 132,
+    "ageHours": 3183.997722005472,
+    "ageMinutes": 191039.86332032832,
+    "size": 17746152413,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "Katairi",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.4KLight.2160p.Bluray.10bits.DV.HDR10plus.DTS-HD.MA.5.1.x265-Katairi",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-06-21T21:31:31Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-4klight-2160p-bluray-10bits-dv-hdr10plus-dts-hd-ma-5-1-x265-katairi-20644f8a",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-4klight-2160p-bluray-10bits-dv-hdr10plus-dts-hd-ma-5-1-x265-katairi-20644f8a/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-4klight-2160p-bluray-10bits-dv-hdr10plus-dts-hd-ma-5-1-x265-katairi-20644f8a",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 25,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "20644f8ad92f6b7e08a375b2b980f8ca838d97e0",
+    "seeders": 28,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "303eca8927d935ffed731be1f62cebc239a02443",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 135,
+    "ageHours": 3240.776055339528,
+    "ageMinutes": 194446.56332037167,
+    "size": 15758374564,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "RaDiuM197",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.CUSTOM.MULTI.VFF.2160p.BluRay.HDR.AAC.5.1.x265-RaDiuM197",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-06-19T12:44:49Z",
+    "commentUrl": "https://c411.org/torrents/303eca8927d935ffed731be1f62cebc239a02443",
+    "downloadUrl": "https://c411.org/api?t=get&id=303eca8927d935ffed731be1f62cebc239a02443&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/303eca8927d935ffed731be1f62cebc239a02443",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 26,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "303eca8927d935ffed731be1f62cebc239a02443",
+    "seeders": 11,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-bluray-dts-5-1-vff-av1-2160p-4k-10-bit-open-matte-askal-t9-281487",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 163,
+    "ageHours": 3915.6091108955834,
+    "ageMinutes": 234936.546653735,
+    "size": 11560101666,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.BluRay.DTS.5.1.VFF.AV1-2160p.4K.10-bit.Open.Matte.Askal",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-22T09:54:50Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-bluray-dts-5-1-vff-av1-2160p-4k-10-bit-open-matte-askal-t9-281487",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-bluray-dts-5-1-vff-av1-2160p-4k-10-bit-open-matte-askal-t9-281487/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-bluray-dts-5-1-vff-av1-2160p-4k-10-bit-open-matte-askal-t9-281487",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 27,
+    "edition": "Open Matte",
+    "magnetUrl": "",
+    "infoHash": "28a2377d5afc44f628a84909bbe5bb711f1b2db2",
+    "seeders": 4,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "396016873e37bb743d81fc5576c36bfbcffc6dba",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 165,
+    "ageHours": 3973.9027220071944,
+    "ageMinutes": 238434.16332043166,
+    "size": 8588869880,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "ESCANOR",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.2160p.BluRay.HDR10.Opus.5.1.AV1-ESCANOR",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-05-19T23:37:13Z",
+    "commentUrl": "https://c411.org/torrents/396016873e37bb743d81fc5576c36bfbcffc6dba",
+    "downloadUrl": "https://c411.org/api?t=get&id=396016873e37bb743d81fc5576c36bfbcffc6dba&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/396016873e37bb743d81fc5576c36bfbcffc6dba",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 28,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "396016873e37bb743d81fc5576c36bfbcffc6dba",
+    "seeders": 27,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-2160p-bluray-x265-dts-hd-ben-the-men-t9-309692",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 129,
+    "ageHours": 3098.7949442299446,
+    "ageMinutes": 185927.69665379668,
+    "size": 82363842067,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "Ben",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.2160p.BluRay.x265.DTS-HD-Ben.The.Men",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-06-25T10:43:41Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-2160p-bluray-x265-dts-hd-ben-the-men-t9-309692",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-2160p-bluray-x265-dts-hd-ben-the-men-t9-309692/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-2160p-bluray-x265-dts-hd-ben-the-men-t9-309692",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 29,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "33e3fb5f4b0a4a33989c5f151939c07b9750b46e",
+    "seeders": 2,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-2160p-bluray-10bits-hdr10-dts-5-1-x265-seskapile-974f9e11",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 93,
+    "ageHours": 2236.3885553415557,
+    "ageMinutes": 134183.31332049333,
+    "size": 51522830336,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "SESKAPiLE",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.2160p.Bluray.10bits.HDR10.DTS.5.1.x265-SESKAPiLE",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-07-31T09:08:04Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-2160p-bluray-10bits-hdr10-dts-5-1-x265-seskapile-974f9e11",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-2160p-bluray-10bits-hdr10-dts-5-1-x265-seskapile-974f9e11/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-2160p-bluray-10bits-hdr10-dts-5-1-x265-seskapile-974f9e11",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 30,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "974f9e11ff99186cc6ff3f084f8ddfdf15663d06",
+    "seeders": 3,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-custom-bluray-x265-hdr-aac-radium197-t9-305269",
+    "quality": {
+      "quality": {
+        "id": 19,
+        "name": "Bluray-2160p",
+        "source": "bluray",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2201,
+    "age": 135,
+    "ageHours": 3240.9491108977777,
+    "ageMinutes": 194456.94665386667,
+    "size": 15758374564,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "RaDiuM197",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.2160p.Custom.BluRay.x265.HDR.AAC-RaDiuM197",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-06-19T12:34:26Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-custom-bluray-x265-hdr-aac-radium197-t9-305269",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-2160p-custom-bluray-x265-hdr-aac-radium197-t9-305269/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-2160p-custom-bluray-x265-hdr-aac-radium197-t9-305269",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 31,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "f8d6bb7db4411733852971cfc586a809cd37ca6f",
+    "seeders": 3,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vf2-uhd-2160p-hevc-hdr-iva-web-ac3-x265-bigzt-t9-43836",
+    "quality": {
+      "quality": {
+        "id": 16,
+        "name": "HDTV-2160p",
+        "source": "tv",
+        "resolution": 2160,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 2001,
+    "age": 238,
+    "ageHours": 5714.199944231584,
+    "ageMinutes": 342851.996653895,
+    "size": 5427554967,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "BigZT",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VF2.UHD.2160p.HEVC.HDR.IVA.WEB.AC3.x265-BigZT",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "HDTV-2160p is not wanted in profile"
+    ],
+    "publishDate": "2026-03-08T11:19:23Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vf2-uhd-2160p-hevc-hdr-iva-web-ac3-x265-bigzt-t9-43836",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vf2-uhd-2160p-hevc-hdr-iva-web-ac3-x265-bigzt-t9-43836/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vf2-uhd-2160p-hevc-hdr-iva-web-ac3-x265-bigzt-t9-43836",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 32,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "75b58a607dc7be339a598f12ebd6b8b1e03a43da",
+    "seeders": 55,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "ae1a95f41ef11991d01031fb9920dcd3bac10e45",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "history": {
+      "grabbed": "2026-10-20T17:07:27Z"
+    },
+    "qualityWeight": 1801,
+    "age": 290,
+    "ageHours": 6982.330777565472,
+    "ageMinutes": 418939.84665392834,
+    "size": 2914538932,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "QTZ",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.1080p.BluRay.HDLight.AAC.5.1.x265-QTZ",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-01-14T15:11:32Z",
+    "commentUrl": "https://c411.org/torrents/ae1a95f41ef11991d01031fb9920dcd3bac10e45",
+    "downloadUrl": "https://c411.org/api?t=get&id=ae1a95f41ef11991d01031fb9920dcd3bac10e45&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/ae1a95f41ef11991d01031fb9920dcd3bac10e45",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 33,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "ae1a95f41ef11991d01031fb9920dcd3bac10e45",
+    "seeders": 605,
+    "leechers": 1,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "aa374fc60b63bbf4a2c24cecbf16ea9c3bf7fd3f",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 288,
+    "ageHours": 6914.651610899472,
+    "ageMinutes": 414879.09665397,
+    "size": 17227272643,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "FoX",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.1080p.BluRay.DTS.HD.MA.5.1.x264-FoX",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-01-17T10:52:17Z",
+    "commentUrl": "https://c411.org/torrents/aa374fc60b63bbf4a2c24cecbf16ea9c3bf7fd3f",
+    "downloadUrl": "https://c411.org/api?t=get&id=aa374fc60b63bbf4a2c24cecbf16ea9c3bf7fd3f&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/aa374fc60b63bbf4a2c24cecbf16ea9c3bf7fd3f",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 34,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "aa374fc60b63bbf4a2c24cecbf16ea9c3bf7fd3f",
+    "seeders": 67,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-dts-hd-ma-x264-fox-t9-6370",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 279,
+    "ageHours": 6701.026333122389,
+    "ageMinutes": 402061.57998734334,
+    "size": 17227272643,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "FoX",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.1080p.BLURAY.DTS-HD.MA.x264-FoX",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-01-26T08:29:48Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-dts-hd-ma-x264-fox-t9-6370",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-1080p-bluray-dts-hd-ma-x264-fox-t9-6370/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-dts-hd-ma-x264-fox-t9-6370",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 35,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "5d5984888a4b324c409798e5e2913dee5b511a6f",
+    "seeders": 51,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "55739ef66f8f867aadae8cfb049d5d99303b4842",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 286,
+    "ageHours": 6879.022444233917,
+    "ageMinutes": 412741.346654035,
+    "size": 10414151874,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "telemO",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.1080p.BluRay.DTS.5.1.x265-telemO",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-01-18T22:30:02Z",
+    "commentUrl": "https://c411.org/torrents/55739ef66f8f867aadae8cfb049d5d99303b4842",
+    "downloadUrl": "https://c411.org/api?t=get&id=55739ef66f8f867aadae8cfb049d5d99303b4842&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/55739ef66f8f867aadae8cfb049d5d99303b4842",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 36,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "55739ef66f8f867aadae8cfb049d5d99303b4842",
+    "seeders": 60,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "9c12b221a9a90598f822e36b611e0e0297d30893",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 240,
+    "ageHours": 5782.9635553455,
+    "ageMinutes": 346977.81332073,
+    "size": 6707778292,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "Winks",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.1080p.BluRay.EAC3.5.1.x265-Winks",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-03-05T14:33:34Z",
+    "commentUrl": "https://c411.org/torrents/9c12b221a9a90598f822e36b611e0e0297d30893",
+    "downloadUrl": "https://c411.org/api?t=get&id=9c12b221a9a90598f822e36b611e0e0297d30893&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/9c12b221a9a90598f822e36b611e0e0297d30893",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 37,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "9c12b221a9a90598f822e36b611e0e0297d30893",
+    "seeders": 56,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "4cd3dfa99cbf78e0b81460a957189c8d55fcea1f",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 223,
+    "ageHours": 5354.674388679222,
+    "ageMinutes": 321280.463320755,
+    "size": 3666956940,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "PopHD",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VF2.1080p.BluRay.HDLight.AC3.5.1.x264-PopHD",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-03-23T10:50:55Z",
+    "commentUrl": "https://c411.org/torrents/4cd3dfa99cbf78e0b81460a957189c8d55fcea1f",
+    "downloadUrl": "https://c411.org/api?t=get&id=4cd3dfa99cbf78e0b81460a957189c8d55fcea1f&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/4cd3dfa99cbf78e0b81460a957189c8d55fcea1f",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 38,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "4cd3dfa99cbf78e0b81460a957189c8d55fcea1f",
+    "seeders": 162,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-10bit-bluray-x265-ddp-5-1-kth-t9-302646",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 138,
+    "ageHours": 3330.139388679667,
+    "ageMinutes": 199808.36332078,
+    "size": 3732843976,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "KTH",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.1080p.10bit.BluRay.x265.DDP.5.1-KTH",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-06-15T19:23:01Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-10bit-bluray-x265-ddp-5-1-kth-t9-302646",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-1080p-10bit-bluray-x265-ddp-5-1-kth-t9-302646/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-10bit-bluray-x265-ddp-5-1-kth-t9-302646",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 39,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "de43f9426fa9a111aea09ea02b94f700d89890c9",
+    "seeders": 44,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vf2-1080p-bluray-x264-pophd-t9-13658",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 269,
+    "ageHours": 6465.860777569194,
+    "ageMinutes": 387951.6466541517,
+    "size": 3666956940,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "PopHD",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.Multi-VF2.1080p.BluRay.x264-PopHD",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-02-05T03:39:44Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vf2-1080p-bluray-x264-pophd-t9-13658",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vf2-1080p-bluray-x264-pophd-t9-13658/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vf2-1080p-bluray-x264-pophd-t9-13658",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 40,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "9de9547c535491de4d061f95b4fc1c5ee9b84eb7",
+    "seeders": 98,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-hdlight-aac-5-1-x265-qtz-t9-302730",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 138,
+    "ageHours": 3327.2035553475835,
+    "ageMinutes": 199632.213320855,
+    "size": 2914538932,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "QTZ",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.1080p.BluRay.HDLight.AAC.5.1.x265-QTZ",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-06-15T22:19:10Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-hdlight-aac-5-1-x265-qtz-t9-302730",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-1080p-bluray-hdlight-aac-5-1-x265-qtz-t9-302730/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-hdlight-aac-5-1-x265-qtz-t9-302730",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 41,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "6cb49ac1d3a835b83f4486b6e076236190854192",
+    "seeders": 173,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-1080p-bluray-multi-vff-dts-hd-ma-dts-x264-fox-t9-316631",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 117,
+    "ageHours": 2828.8885553484165,
+    "ageMinutes": 169733.31332090666,
+    "size": 17227272643,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "FoX",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.1080p.BluRay.MULTi.VFF.DTS-HD.MA.DTS.x264-FoX",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-07-06T16:38:04Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-1080p-bluray-multi-vff-dts-hd-ma-dts-x264-fox-t9-316631",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-1080p-bluray-multi-vff-dts-hd-ma-dts-x264-fox-t9-316631/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-1080p-bluray-multi-vff-dts-hd-ma-dts-x264-fox-t9-316631",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 42,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "3b677ec97ef6c9ac439b6a8b2e35fb9d24e07814",
+    "seeders": 16,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "d34dc5d2af56576066fbf4d56a4006afe4d7d0ab",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 116,
+    "ageHours": 2799.808555348917,
+    "ageMinutes": 167988.513320935,
+    "size": 11736034517,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "NOWINHD",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.1080p.BluRay.DTS.5.1.x264-NOWINHD",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-07-07T21:42:52Z",
+    "commentUrl": "https://c411.org/torrents/d34dc5d2af56576066fbf4d56a4006afe4d7d0ab",
+    "downloadUrl": "https://c411.org/api?t=get&id=d34dc5d2af56576066fbf4d56a4006afe4d7d0ab&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/d34dc5d2af56576066fbf4d56a4006afe4d7d0ab",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 43,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "d34dc5d2af56576066fbf4d56a4006afe4d7d0ab",
+    "seeders": 14,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-dts-5-1-x264-nowinhd-1-t9-161579",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 231,
+    "ageHours": 5565.3824442382775,
+    "ageMinutes": 333922.94665429834,
+    "size": 11736034877,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "NOWiNHD",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.1080p.BluRay.DTS.5.1.x264-NOWiNHD-1",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-03-14T16:08:26Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-dts-5-1-x264-nowinhd-1-t9-161579",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-1080p-bluray-dts-5-1-x264-nowinhd-1-t9-161579/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-dts-5-1-x264-nowinhd-1-t9-161579",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 44,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "ba21404b3be95da2658f3d19f0b465d1d103cd4f",
+    "seeders": 20,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-rm-multi-vf2-1080p-dv-bluray-ac3-av1-tifou-t9-262851",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 176,
+    "ageHours": 4232.069666461194,
+    "ageMinutes": 253924.17998767333,
+    "size": 7349328677,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "TiFou",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.RM.MULTi.VF2.1080p.DV.BluRay.AC3.AV1-TiFou",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-05-09T05:27:12Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-rm-multi-vf2-1080p-dv-bluray-ac3-av1-tifou-t9-262851",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-rm-multi-vf2-1080p-dv-bluray-ac3-av1-tifou-t9-262851/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-rm-multi-vf2-1080p-dv-bluray-ac3-av1-tifou-t9-262851",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 45,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "c0c75345d3785176db0e077c2bbbaacfcd46b439",
+    "seeders": 18,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-e-ac3-x265-winks-t9-3918",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 284,
+    "ageHours": 6833.563833128361,
+    "ageMinutes": 410013.82998770167,
+    "size": 6707778292,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "Winks",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.1080p.BluRay.E-AC3.x265-Winks",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-01-20T19:57:33Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-e-ac3-x265-winks-t9-3918",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-1080p-bluray-e-ac3-x265-winks-t9-3918/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-e-ac3-x265-winks-t9-3918",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 46,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "1723533127b3053b3bbff7ebdab266589c9f863f",
+    "seeders": 23,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "7196aa808a6a1c65741e445b973fd3fa5725db6c",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 134,
+    "ageHours": 3232.405777573222,
+    "ageMinutes": 193944.34665439333,
+    "size": 6255488946,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "STARLIGHTER",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.1080p.BluRay.DTS.5.1.x265-STARLIGHTER",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-06-19T21:07:02Z",
+    "commentUrl": "https://c411.org/torrents/7196aa808a6a1c65741e445b973fd3fa5725db6c",
+    "downloadUrl": "https://c411.org/api?t=get&id=7196aa808a6a1c65741e445b973fd3fa5725db6c&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/7196aa808a6a1c65741e445b973fd3fa5725db6c",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 47,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "7196aa808a6a1c65741e445b973fd3fa5725db6c",
+    "seeders": 18,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-remastered-multi-vff-1080p-bluray-ddp5-1-x265-batgirl-t9-265341",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 174,
+    "ageHours": 4199.908555351417,
+    "ageMinutes": 251994.513321085,
+    "size": 3927584919,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "BATGirl",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.REMASTERED.MULTi.VFF.1080p.BluRay.DDP5.1.x265-BATGirl",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-05-10T13:36:52Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-remastered-multi-vff-1080p-bluray-ddp5-1-x265-batgirl-t9-265341",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-remastered-multi-vff-1080p-bluray-ddp5-1-x265-batgirl-t9-265341/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-remastered-multi-vff-1080p-bluray-ddp5-1-x265-batgirl-t9-265341",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 48,
+    "edition": "REMASTERED",
+    "magnetUrl": "",
+    "infoHash": "15c706c5f461678e8f09926d4c7bb17d5867b77b",
+    "seeders": 12,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "cd809674d670e2e37725bc5f47a0c6a3b34e9f32",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 138,
+    "ageHours": 3326.014666463028,
+    "ageMinutes": 199560.87998778332,
+    "size": 3732843976,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "KTH",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.1080p.BluRay.HDR10.EAC3.5.1.x265-KTH",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-06-15T23:30:30Z",
+    "commentUrl": "https://c411.org/torrents/cd809674d670e2e37725bc5f47a0c6a3b34e9f32",
+    "downloadUrl": "https://c411.org/api?t=get&id=cd809674d670e2e37725bc5f47a0c6a3b34e9f32&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/cd809674d670e2e37725bc5f47a0c6a3b34e9f32",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 49,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "cd809674d670e2e37725bc5f47a0c6a3b34e9f32",
+    "seeders": 31,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-10bits-hdr10-eac3-5-1-x265-kth-db619473",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 138,
+    "ageHours": 3330.127999797,
+    "ageMinutes": 199807.67998782,
+    "size": 3732843976,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "KTH",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.1080p.BluRay.10bits.HDR10.EAC3.5.1.x265-KTH",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-06-15T19:23:42Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-10bits-hdr10-eac3-5-1-x265-kth-db619473",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-1080p-bluray-10bits-hdr10-eac3-5-1-x265-kth-db619473/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-10bits-hdr10-eac3-5-1-x265-kth-db619473",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 50,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "db619473e8c9474c4e9105883fc93b5f6cf4cd17",
+    "seeders": 18,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-remastered-multi-vff-1080p-bluray-dts-5-1-x264-zit-6de09934",
+    "quality": {
+      "quality": {
+        "id": 7,
+        "name": "Bluray-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1801,
+    "age": 164,
+    "ageHours": 3956.9979997974447,
+    "ageMinutes": 237419.87998784834,
+    "size": 11763725685,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "ZiT",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.REMASTERED.MULTi.VFF.1080p.Bluray.DTS.5.1.x264-ZiT",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-05-20T16:31:30Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-remastered-multi-vff-1080p-bluray-dts-5-1-x264-zit-6de09934",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-remastered-multi-vff-1080p-bluray-dts-5-1-x264-zit-6de09934/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-remastered-multi-vff-1080p-bluray-dts-5-1-x264-zit-6de09934",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 51,
+    "edition": "REMASTERED",
+    "magnetUrl": "",
+    "infoHash": "6de09934e3a9481b991603da1f55512add5a3482",
+    "seeders": 1,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "c98affe496f7372e41a245299fb1399e7aa2b30a",
+    "quality": {
+      "quality": {
+        "id": 15,
+        "name": "WEBRip-1080p",
+        "source": "webrip",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1701,
+    "age": 244,
+    "ageHours": 5856.4227220200555,
+    "ageMinutes": 351385.36332120333,
+    "size": 3089820904,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "TyHD",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.1080p.WEBRip.EAC3.5.1.x265-TyHD",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-03-02T13:06:01Z",
+    "commentUrl": "https://c411.org/torrents/c98affe496f7372e41a245299fb1399e7aa2b30a",
+    "downloadUrl": "https://c411.org/api?t=get&id=c98affe496f7372e41a245299fb1399e7aa2b30a&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/c98affe496f7372e41a245299fb1399e7aa2b30a",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 52,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "c98affe496f7372e41a245299fb1399e7aa2b30a",
+    "seeders": 87,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-webrip-10-bits-eac3-5-1-x265-tyhd-t9-186173",
+    "quality": {
+      "quality": {
+        "id": 15,
+        "name": "WEBRip-1080p",
+        "source": "webrip",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1701,
+    "age": 227,
+    "ageHours": 5468.677999798278,
+    "ageMinutes": 328120.67998789664,
+    "size": 3089820904,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "TyHD",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.1080p.WEBrip.10.bits.EAC3.5.1.x265-TyHD",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-03-18T16:50:42Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-webrip-10-bits-eac3-5-1-x265-tyhd-t9-186173",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-1080p-webrip-10-bits-eac3-5-1-x265-tyhd-t9-186173/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-webrip-10-bits-eac3-5-1-x265-tyhd-t9-186173",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 53,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "766dba2ace1f9890aebfafcdd38501c5e80ac702",
+    "seeders": 55,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "217b5945a6387ae52d2031986989082d0950b5d5",
+    "quality": {
+      "quality": {
+        "id": 3,
+        "name": "WEBDL-1080p",
+        "source": "webdl",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1701,
+    "age": 121,
+    "ageHours": 2922.1202220209443,
+    "ageMinutes": 175327.21332125666,
+    "size": 15632040485,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "Ger06",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.Open.Matte.1999.MULTI.VFF.1080p.WEB.DTS.HD.MA.5.1.H264-Ger06",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club 1999"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "14.6 GB is larger than maximum allowed 6.7 GB (for Fight Club)"
+    ],
+    "publishDate": "2026-07-02T19:24:10Z",
+    "commentUrl": "https://c411.org/torrents/217b5945a6387ae52d2031986989082d0950b5d5",
+    "downloadUrl": "https://c411.org/api?t=get&id=217b5945a6387ae52d2031986989082d0950b5d5&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/217b5945a6387ae52d2031986989082d0950b5d5",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 54,
+    "edition": "Open Matte",
+    "magnetUrl": "",
+    "infoHash": "217b5945a6387ae52d2031986989082d0950b5d5",
+    "seeders": 6,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "0ed29fcdbcc4cd15d621eb648fb77b7b6318483e",
+    "quality": {
+      "quality": {
+        "id": 30,
+        "name": "Remux-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1901,
+    "age": 216,
+    "ageHours": 5186.061888688195,
+    "ageMinutes": 311163.71332129167,
+    "size": 29944163710,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "Manix123",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VF2.1080p.Custom.BluRay.REMUX.DTS.5.1.AVC-Manix123",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-03-30T11:27:40Z",
+    "commentUrl": "https://c411.org/torrents/0ed29fcdbcc4cd15d621eb648fb77b7b6318483e",
+    "downloadUrl": "https://c411.org/api?t=get&id=0ed29fcdbcc4cd15d621eb648fb77b7b6318483e&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/0ed29fcdbcc4cd15d621eb648fb77b7b6318483e",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 55,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "0ed29fcdbcc4cd15d621eb648fb77b7b6318483e",
+    "seeders": 43,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-custom-multi-vf2-1080p-bluray-remux-avc-dts-hd-ma-5-1-manix123-t9-38551",
+    "quality": {
+      "quality": {
+        "id": 30,
+        "name": "Remux-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1901,
+    "age": 240,
+    "ageHours": 5767.664388688667,
+    "ageMinutes": 346059.86332132,
+    "size": 29944163710,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "Manix123",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.CUSTOM.MULTi.VF2.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-Manix123",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-03-06T05:51:31Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-custom-multi-vf2-1080p-bluray-remux-avc-dts-hd-ma-5-1-manix123-t9-38551",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-custom-multi-vf2-1080p-bluray-remux-avc-dts-hd-ma-5-1-manix123-t9-38551/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-custom-multi-vf2-1080p-bluray-remux-avc-dts-hd-ma-5-1-manix123-t9-38551",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 56,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "db0c7c9d57be23783b31e8aa20a1e787e2bbdad9",
+    "seeders": 83,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "76fe0f99cb41845c639e70a44ceb1d21b8bd3eb3",
+    "quality": {
+      "quality": {
+        "id": 30,
+        "name": "Remux-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1901,
+    "age": 178,
+    "ageHours": 4275.351333133528,
+    "ageMinutes": 256521.07998801165,
+    "size": 31331515096,
+    "indexerId": 1,
+    "indexer": "C411",
+    "releaseGroup": "OZEF",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.VFF.1080p.BLURAY.REMUX.DTS.HD.MA.5.1.AVC-OZEF",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-05-07T10:10:18Z",
+    "commentUrl": "https://c411.org/torrents/76fe0f99cb41845c639e70a44ceb1d21b8bd3eb3",
+    "downloadUrl": "https://c411.org/api?t=get&id=76fe0f99cb41845c639e70a44ceb1d21b8bd3eb3&apikey=0aface40c47c89b80736ca2cd785b44320a3a9ccf2660e2e0e10622da3ba14fb",
+    "infoUrl": "https://c411.org/torrents/76fe0f99cb41845c639e70a44ceb1d21b8bd3eb3",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 57,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "76fe0f99cb41845c639e70a44ceb1d21b8bd3eb3",
+    "seeders": 7,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": []
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-truefrench-1080p-bluray-remux-dts-5-1-h264-patomiel-7ea6bf12",
+    "quality": {
+      "quality": {
+        "id": 30,
+        "name": "Remux-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1901,
+    "age": 142,
+    "ageHours": 3423.562166467389,
+    "ageMinutes": 205413.72998804334,
+    "size": 28657027804,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "PATOMiEL",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.TRUEFRENCH.1080p.Bluray.Remux.DTS.5.1.H264-PATOMiEL",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-06-11T21:57:39Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-truefrench-1080p-bluray-remux-dts-5-1-h264-patomiel-7ea6bf12",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-truefrench-1080p-bluray-remux-dts-5-1-h264-patomiel-7ea6bf12/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-truefrench-1080p-bluray-remux-dts-5-1-h264-patomiel-7ea6bf12",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 58,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "7ea6bf12bd033e1597ef06546915c9021f056fd9",
+    "seeders": 6,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-remux-dts-hd-ma-5-1-avc-patomiel-t9-183595",
+    "quality": {
+      "quality": {
+        "id": 30,
+        "name": "Remux-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1901,
+    "age": 229,
+    "ageHours": 5508.69411091225,
+    "ageMinutes": 330521.646654735,
+    "size": 28657027804,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "PATOMiEL",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.VFF.1080p.BluRay.REMUX.DTS.HD.MA.5.1.AVC-PATOMiEL",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-03-17T00:49:44Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-remux-dts-hd-ma-5-1-avc-patomiel-t9-183595",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-vff-1080p-bluray-remux-dts-hd-ma-5-1-avc-patomiel-t9-183595/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-vff-1080p-bluray-remux-dts-hd-ma-5-1-avc-patomiel-t9-183595",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 59,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "8f4e1c0829f59463763b0e25c95799bf3850cb08",
+    "seeders": 12,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-truefrench-1080p-bluray-remux-dts-hdma-avc-milkyway-t9-46125",
+    "quality": {
+      "quality": {
+        "id": 30,
+        "name": "Remux-1080p",
+        "source": "bluray",
+        "resolution": 1080,
+        "modifier": "remux"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1901,
+    "age": 236,
+    "ageHours": 5685.951333135139,
+    "ageMinutes": 341157.0799881083,
+    "size": 28656727568,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "MilkyWay",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTi.TRUEFRENCH.1080p.BluRay.Remux.DTS-HDMA.AVC-MilkyWay",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-03-09T15:34:18Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-truefrench-1080p-bluray-remux-dts-hdma-avc-milkyway-t9-46125",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-truefrench-1080p-bluray-remux-dts-hdma-avc-milkyway-t9-46125/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-truefrench-1080p-bluray-remux-dts-hdma-avc-milkyway-t9-46125",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 60,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "827aba643d7f25512f058d48b0422a5e774d1d6b",
+    "seeders": 8,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-1080p-x265-aac-t9-197624",
+    "quality": {
+      "quality": {
+        "id": 9,
+        "name": "HDTV-1080p",
+        "source": "tv",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1601,
+    "age": 221,
+    "ageHours": 5324.22577758,
+    "ageMinutes": 319453.54665480164,
+    "size": 1810805785,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.MULTI.1080p.x265.AAC",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-03-24T17:17:50Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-1080p-x265-aac-t9-197624",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-1080p-x265-aac-t9-197624/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-1080p-x265-aac-t9-197624",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 61,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "52c1df0a38afd2daf52d434a95e156d1bae36d48",
+    "seeders": 43,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-vfi-1080p-ac3-5-1-x264-romkent-bfd73f37",
+    "quality": {
+      "quality": {
+        "id": 9,
+        "name": "HDTV-1080p",
+        "source": "tv",
+        "resolution": 1080,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1601,
+    "age": 89,
+    "ageHours": 2149.2763331360834,
+    "ageMinutes": 128956.57998816666,
+    "size": 4681313873,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "ROMKENT",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.VFI.1080p.AC3.5.1.x264-ROMKENT",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": true,
+    "temporarilyRejected": false,
+    "rejected": false,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [],
+    "publishDate": "2026-08-04T00:14:48Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-vfi-1080p-ac3-5-1-x264-romkent-bfd73f37",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-vfi-1080p-ac3-5-1-x264-romkent-bfd73f37/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-vfi-1080p-ac3-5-1-x264-romkent-bfd73f37",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 62,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "bfd73f37681647e5699c841062bcf1a12b14140a",
+    "seeders": 9,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-multi-brrip-720p-x264-dts-tsext3-t9-42624",
+    "quality": {
+      "quality": {
+        "id": 6,
+        "name": "Bluray-720p",
+        "source": "bluray",
+        "resolution": 720,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1501,
+    "age": 238,
+    "ageHours": 5728.86105535875,
+    "ageMinutes": 343731.66332152666,
+    "size": 6205743373,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "TSEXT3",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.Multi.BRRip.720P.X264.DTS-TSEXT3",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      },
+      {
+        "id": 1,
+        "name": "English"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Bluray-720p is not wanted in profile"
+    ],
+    "publishDate": "2026-03-07T20:39:43Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-brrip-720p-x264-dts-tsext3-t9-42624",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-multi-brrip-720p-x264-dts-tsext3-t9-42624/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-multi-brrip-720p-x264-dts-tsext3-t9-42624",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 63,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "16fde62d54754fe2de832e6ecb8bca6025ad06ea",
+    "seeders": 6,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-french-dvdrip-x264-ac3-tat-t9-298119",
+    "quality": {
+      "quality": {
+        "id": 2,
+        "name": "DVD",
+        "source": "dvd",
+        "resolution": 0,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 801,
+    "age": 143,
+    "ageHours": 3452.6282775814443,
+    "ageMinutes": 207157.69665488834,
+    "size": 1525131655,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseGroup": "TAT",
+    "releaseHash": "",
+    "title": "Fight.Club.1999.FRENCH.DVDRip.x264.AC3-TAT",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight Club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "DVD is not wanted in profile"
+    ],
+    "publishDate": "2026-06-10T16:53:41Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-french-dvdrip-x264-ac3-tat-t9-298119",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-french-dvdrip-x264-ac3-tat-t9-298119/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-french-dvdrip-x264-ac3-tat-t9-298119",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 64,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "049f692398e52dfa5763fd8b0577b9e213ada7dd",
+    "seeders": 2,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1999-vf-sd-mp3-2-0-xvid-ebdbc8a5",
+    "quality": {
+      "quality": {
+        "id": 1,
+        "name": "SDTV",
+        "source": "tv",
+        "resolution": 480,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 701,
+    "age": 35,
+    "ageHours": 860.2724442487778,
+    "ageMinutes": 51616.34665492667,
+    "size": 828829696,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "releaseHash": "",
+    "title": "Fight.club.1999.VF.SD.MP3.2.0.XviD",
+    "sceneSource": false,
+    "movieTitles": [
+      "Fight club"
+    ],
+    "languages": [
+      {
+        "id": 2,
+        "name": "French"
+      }
+    ],
+    "mappedMovieId": 23,
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "SDTV is not wanted in profile"
+    ],
+    "publishDate": "2026-09-26T17:15:02Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1999-vf-sd-mp3-2-0-xvid-ebdbc8a5",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1999-vf-sd-mp3-2-0-xvid-ebdbc8a5/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1999-vf-sd-mp3-2-0-xvid-ebdbc8a5",
+    "movieRequested": true,
+    "downloadAllowed": true,
+    "releaseWeight": 65,
+    "edition": "",
+    "magnetUrl": "",
+    "infoHash": "ebdbc8a525e735eea5dd316ee314021750c3ca8d",
+    "seeders": 1,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-467f2671",
+    "quality": {
+      "quality": {
+        "id": 0,
+        "name": "Unknown",
+        "source": "unknown",
+        "resolution": 0,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1,
+    "age": 179,
+    "ageHours": 4309.440499804917,
+    "ageMinutes": 258566.429988295,
+    "size": 12406338106,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "title": "Fight Club",
+    "sceneSource": false,
+    "movieTitles": [],
+    "languages": [
+      {
+        "id": 0,
+        "name": "Unknown"
+      }
+    ],
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Unable to parse release"
+    ],
+    "publishDate": "2026-05-06T00:04:57Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-467f2671",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-467f2671/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-467f2671",
+    "movieRequested": false,
+    "downloadAllowed": false,
+    "releaseWeight": 66,
+    "magnetUrl": "",
+    "infoHash": "467f26710501a9326b3a97591b435452a633039e",
+    "seeders": 12,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  },
+  {
+    "guid": "https://tr4ker.net/torrent/fight-club-1080-fr-en-mhdgz-t9-9859",
+    "quality": {
+      "quality": {
+        "id": 0,
+        "name": "Unknown",
+        "source": "unknown",
+        "resolution": 0,
+        "modifier": "none"
+      },
+      "revision": {
+        "version": 1,
+        "real": 0,
+        "isRepack": false
+      }
+    },
+    "customFormats": [],
+    "customFormatScore": 0,
+    "qualityWeight": 1,
+    "age": 273,
+    "ageHours": 6564.2957775831665,
+    "ageMinutes": 393857.74665499,
+    "size": 3210307613,
+    "indexerId": 2,
+    "indexer": "Tr4cker",
+    "title": "Fight Club - 1080 FR EN mHDgz",
+    "sceneSource": false,
+    "movieTitles": [],
+    "languages": [
+      {
+        "id": 1,
+        "name": "English"
+      },
+      {
+        "id": 2,
+        "name": "French"
+      }
+    ],
+    "approved": false,
+    "temporarilyRejected": false,
+    "rejected": true,
+    "tmdbId": 550,
+    "imdbId": 0,
+    "rejections": [
+      "Unable to parse release"
+    ],
+    "publishDate": "2026-02-01T01:13:38Z",
+    "commentUrl": "https://tr4ker.net/torrent/fight-club-1080-fr-en-mhdgz-t9-9859",
+    "downloadUrl": "https://tr4ker.net/api/torrents/fight-club-1080-fr-en-mhdgz-t9-9859/download?apikey=tr4k_6c720a32b36e37831a50588360c5340335ad21a766dc1860cffe3faafd00a46e",
+    "infoUrl": "https://tr4ker.net/torrent/fight-club-1080-fr-en-mhdgz-t9-9859",
+    "movieRequested": false,
+    "downloadAllowed": false,
+    "releaseWeight": 67,
+    "magnetUrl": "",
+    "infoHash": "1aa4202888641f11ba8b070166ca0234e24f4f14",
+    "seeders": 5,
+    "leechers": 0,
+    "protocol": "torrent",
+    "indexerFlags": [
+      "G_Freeleech"
+    ]
+  }
+]
