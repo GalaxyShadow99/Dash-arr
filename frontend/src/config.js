@@ -1,15 +1,12 @@
 /**
  * Configuration centralisee du Frontend Dasharr
- * Validation stricte des variables d'environnement (crash au chargement si manquante)
+ * - En production (Docker) : VITE_API_URL peut etre vide pour que le navigateur
+ *   utilise des requetes relatives ("/api/...") rootees en prive par Nginx vers le backend Docker.
+ * - En developpement local : VITE_API_URL=http://localhost:8000 pour joindre le backend FastAPI direct.
  */
 
-const rawApiUrl = import.meta.env.VITE_API_URL ?? import.meta.env.API_URL;
+const rawApiUrl = import.meta.env.VITE_API_URL ?? import.meta.env.API_URL ?? '';
 
-if (!rawApiUrl || typeof rawApiUrl !== 'string' || rawApiUrl.trim() === '') {
-  throw new Error(
-    "[FATAL ERROR] La variable d'environnement VITE_API_URL est manquante ou vide. " +
-    "Veuillez definir VITE_API_URL dans votre fichier .env (ex: VITE_API_URL=http://localhost:20000)."
-  );
-}
-
-export const API_BASE_URL = rawApiUrl.replace(/\/+$/, '');
+export const API_BASE_URL = typeof rawApiUrl === 'string' && rawApiUrl.trim() !== ''
+  ? rawApiUrl.trim().replace(/\/+$/, '')
+  : '';
