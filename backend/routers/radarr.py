@@ -283,7 +283,7 @@ async def delete_movie(movie_id: int, delete_files: bool = False):
 
 # --- SEARCH / LOOKUP ---
 @router.get("/lookup", response_model=ApiResponse)
-async def lookup_movie(query: str, limit: int = 10):
+async def lookup_movie(query: str, limit: int = 25):
     """Recherche un film par mot-clé pour trouver son TMDB ID (limité à 10 par défaut)."""
     raw_results = search_tmdb(query)
 
