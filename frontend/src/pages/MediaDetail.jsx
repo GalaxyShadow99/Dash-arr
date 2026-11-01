@@ -116,7 +116,33 @@ export default function MediaDetail() {
       if (mediaType === 'movie' && movieId) {
         results = await fetchMovieReleases(movieId)
       } else if (mediaType === 'series' && seriesId) {
-        results = await fetchSeriesReleases(seriesId)
+        // Pour une série, itérer sur toutes les saisons (hors spéciaux / saison 0 si vide)
+        const validSeasons = (datas?.seasons || [])
+          .map((s) => s.seasonNumber)
+          .filter((sNum) => sNum > 0)
+
+        if (validSeasons.length > 0) {
+          const seasonPromises = validSeasons.map((sNum) =>
+            fetchSeriesReleases(seriesId, sNum).catch((err) => {
+              console.warn(`Erreur releases saison ${sNum}:`, err)
+              return []
+            })
+          )
+          const seasonsResults = await Promise.all(seasonPromises)
+          // Dédupliquer par guid ou title
+          const seen = new Set()
+          for (const list of seasonsResults) {
+            for (const item of list) {
+              const key = item.guid || item.title
+              if (!seen.has(key)) {
+                seen.add(key)
+                results.push(item)
+              }
+            }
+          }
+        } else {
+          results = await fetchSeriesReleases(seriesId)
+        }
       }
       // Trier les releases : d'abord les conformes (approved: true), puis par seeders décroissants
       const sortedResults = [...results].sort((a, b) => {
@@ -288,11 +314,7 @@ export default function MediaDetail() {
                   {releaseInfo && !releaseInfo.error && (
                     <Chip
                       icon={releaseInfo.hasReleases ? <CheckCircleIcon /> : <CancelIcon />}
-                      label={
-                        releaseInfo.hasReleases
-                          ? (releaseInfo.activeReleasesCount ? `${releaseInfo.activeReleasesCount} release(s)` : 'Disponible')
-                          : 'Introuvable'
-                      }
+                      label={releaseInfo.hasReleases ? 'Disponible' : 'Introuvable'}
                       color={releaseInfo.hasReleases ? 'success' : 'error'}
                       size="small"
                     />
@@ -370,11 +392,40 @@ export default function MediaDetail() {
                   label={mediaType === 'series' ? 'Série TV' : 'Film'}
                   color="primary"
                 />
-                {datas.status == 'released' && datas.releaseDate && (
-                  <Chip label={`Sorti le ${new Date(datas.releaseDate).toLocaleDateString()}`} variant="outlined" />
-                )}
-                {datas.status != 'released' && (
-                  <Chip label={datas.status.toUpperCase()} color="info" variant="outlined" />
+                {mediaType === 'series' ? (
+                  <>
+                    {datas.status && (
+                      <Chip
+                        label={
+                          datas.status === 'ended'
+                            ? 'Terminée'
+                            : datas.status === 'continuing'
+                              ? 'En cours'
+                              : datas.status.toUpperCase()
+                        }
+                        color={datas.status === 'ended' ? 'default' : 'info'}
+                        variant="outlined"
+                      />
+                    )}
+                    {datas.firstAired && (
+                      <Chip
+                        label={`1ère diff. : ${new Date(datas.firstAired).toLocaleDateString()}`}
+                        variant="outlined"
+                      />
+                    )}
+                    {datas.network && (
+                      <Chip label={datas.network} variant="outlined" />
+                    )}
+                  </>
+                ) : (
+                  <>
+                    {datas.status === 'released' && datas.releaseDate && (
+                      <Chip label={`Sorti le ${new Date(datas.releaseDate).toLocaleDateString()}`} variant="outlined" />
+                    )}
+                    {datas.status && datas.status !== 'released' && (
+                      <Chip label={datas.status.toUpperCase()} color="info" variant="outlined" />
+                    )}
+                  </>
                 )}
 
                 {checkingTrackers && !releaseInfo && (
@@ -656,15 +707,42 @@ export default function MediaDetail() {
                   </Button>
                 )}
 
-                {datas.tmdbId && (
-                  <Button
-                    variant="outlined"
-                    href={`https://www.themoviedb.org/movie/${datas.tmdbId}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    TMDB ({datas.tmdbId})
-                  </Button>
+                {mediaType === 'series' ? (
+                  <>
+                    {datas.tvdbId && (
+                      <Button
+                        variant="outlined"
+                        href={`https://thetvdb.com/dereferrer/series/${datas.tvdbId}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        TheTVDB ({datas.tvdbId})
+                      </Button>
+                    )}
+                    {datas.tmdbId && (
+                      <Button
+                        variant="outlined"
+                        href={`https://www.themoviedb.org/tv/${datas.tmdbId}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        TMDB ({datas.tmdbId})
+                      </Button>
+                    )}
+                  </>
+                ) : (
+                  <>
+                    {datas.tmdbId && (
+                      <Button
+                        variant="outlined"
+                        href={`https://www.themoviedb.org/movie/${datas.tmdbId}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        TMDB ({datas.tmdbId})
+                      </Button>
+                    )}
+                  </>
                 )}
               </Stack>
             </Box>
