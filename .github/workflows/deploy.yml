@@ -1,0 +1,56 @@
+name: CD - Deploy VPS
+
+on:
+  workflow_run:
+    workflows: ["CI Dasharr"]
+    types: [completed] # only if the tests `ci.yml` passed
+    branches: [main]
+
+jobs:
+  deploy:
+    name: Deploy sur mon VPS
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+
+    steps:
+      - name: Executing remote ssh commands using passkey
+        uses: appleboy/ssh-action@v1.2.5
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          port: ${{ secrets.SSH_PORT }}
+          script: |
+            set -Eeuo pipefail
+            
+            echo "Connexion réussie au serveur, lancement du déploiement..."
+
+            # 1. Verification du repertoire cible
+            cd ${{ secrets.PATH }} || { echo "Erreur: Répertoire cible introuvable"; exit 1; }
+
+            # 2. Verification du daemon Docker
+            if ! command -v docker &> /dev/null; then
+              echo "Erreur: Docker n'est pas installé sur le serveur."
+              exit 1
+            fi
+
+            # 3. Execution de git pull avec verification
+            echo "Exécution de git pull..."
+            if ! git pull origin main; then
+              echo "Erreur: git pull a échoué (conflit de fusion ou problème git). Interruption du déploiement."
+              exit 1
+            fi
+
+            # 4. Execution de docker compose up avec verification
+            echo "Lancement de docker compose up..."
+            if ! docker compose up -d --build --force-recreate; then
+              echo "Erreur: docker compose up a échoué."
+              exit 1
+            fi
+
+            # 5. Verification de la sante des conteneurs post-deploiement
+            echo "Vérification de l'état des conteneurs..."
+            if ! docker compose ps; then
+              echo "Erreur: Impossible de vérifier l'état des conteneurs Docker."
+              exit 1
+            fi

@@ -468,7 +468,6 @@ export default function MediaDetail() {
                 const tracker = rel.indexer || 'Tracker'
                 const lang = rel.languages?.map((l) => l.name).join(', ') || 'Multi'
 
-                console.log('Release:', rel)
                 return (
                   <Accordion
                     key={rel.guid || idx}

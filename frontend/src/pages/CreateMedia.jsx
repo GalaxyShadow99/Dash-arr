@@ -11,13 +11,9 @@ import Select from '@mui/material/Select'
 import MenuItem from '@mui/material/MenuItem'
 import MediaCard from '../components/MediaCard'
 import { getAuthToken } from '../services/auth'
+import { API_BASE_URL } from '../config'
 
 async function mediaLookup(query, type) {
-  const API_URL = import.meta.env.API_URL;
-  if (!API_URL) {
-    throw new Error("L'URL de l'API n'est pas définie. Veuillez vérifier votre configuration.");
-  }
-
   const token = getAuthToken();
   const headers = {
     'Content-Type': 'application/json',
@@ -28,7 +24,7 @@ async function mediaLookup(query, type) {
   let response;
   if (type === 'movie') {
     response = await fetch(
-      `${API_URL}/api/radarr/lookup?query=${encodeURIComponent(query)}`,
+      `${API_BASE_URL}/api/radarr/lookup?query=${encodeURIComponent(query)}`,
       {
         method: 'GET',
         headers,
@@ -36,7 +32,7 @@ async function mediaLookup(query, type) {
     );
   } else if (type === 'series') {
     response = await fetch(
-      `${API_URL}/api/sonarr/lookup?term=${encodeURIComponent(query)}`,
+      `${API_BASE_URL}/api/sonarr/lookup?term=${encodeURIComponent(query)}`,
       {
         method: 'GET',
         headers,
